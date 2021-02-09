@@ -8,13 +8,31 @@ Buy the game here: https://store.steampowered.com/app/318300/Phineas_and_Ferb_Ne
 
 Currently, please do not redistribute this without my (ChainSwordCS) express permission. The team will work out a proper license at some point in the near future.
 
+Feel free to link to this Github repo and share it.
+
 # Installation
 
-There are no instructions at this time for installing the English patch.
+* Download **texts.xml** from the latest release.
 
-## Uninstall
+* *texts.xml* goes in \res_ru\ inside the game directory, replacing the *texts.xml* file already there.
 
-The English language patch is currently built to replace the Russian language. For uninstalling the current beta...
+  * In a Steam installation, this is C:\Program Files (x86)\Steam\steamapps\common\Phineas and Ferb New Inventions\res_ru\
+  
+  * Alternatively that directory may be in the \Program Files\ instead of \Program Files (x86)\
+
+### Building from Source
+
+Python 3 is required.
+
+Run **CsvToXml.py** with **P&F NI Translation Spreadsheet - Sheet1.csv** in the same folder. It will output **texts.xml** which can be installed via the install instructions above.
+
+**CsvToXml.py** takes a csv with translation information and constructs an XML file which can be used for the patch. Currently, it is hardcoded to take a csv with the name "P&F NI Translation Spreadsheet - Sheet1.csv" with string IDs in the first column and English translation in the 8th column, from the second row down. These parameters may be relaxed in the future, but are also easy to change by editing the file.
+
+The most up-to-date csv file can be retrieved from this spreadsheet: https://docs.google.com/spreadsheets/d/1WyuN7qDPnx94T2Ksw-q3NR_6zvCv9O3kyrLqZrvS_z4/edit?usp=sharing
+
+### Uninstall
+
+The English language patch is currently built to replace the Russian language. For uninstalling the current version:
 
 * Download the Russian *texts.xml* 
 
@@ -34,7 +52,14 @@ If any other files were deleted or replaced, you could try to restore files thro
 
 Alternatively, you could redownload specific files from the archive. https://archive.org/details/phineas-and-ferb-new-inventions
 
+# Contribute to the Translation
+
+To contribute to the translation, please leave a comment or suggestion on this spreadsheet: https://docs.google.com/spreadsheets/d/1WyuN7qDPnx94T2Ksw-q3NR_6zvCv9O3kyrLqZrvS_z4/edit?usp=sharing
+
+A member of our team will get to it and will incorporate it if they see fit. Feel free to leave your username if you are not logged in, and you can be credited.
+
 # Credits
+
 ChainSwordCS - Organization, translation.
 
 Eiim - Organization, translation, programming.
