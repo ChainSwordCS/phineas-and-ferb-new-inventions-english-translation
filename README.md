@@ -8,13 +8,23 @@ Buy the game here: https://store.steampowered.com/app/318300/Phineas_and_Ferb_Ne
 
 Currently, please do not redistribute this without my (ChainSwordCS) express permission. The team will work out a proper license at some point in the near future.
 
+Feel free to link to this Github repo and share it.
+
 # Installation
 
-## Translation files to language files
+* Download **texts.xml** from the latest release.
 
-CsvToXml.py takes a csv with translation information and constructs an XML files which can be used for the patch. Currently, it is hardcoded to take the csv with the name "P&F NI Translation Spreadsheet - Sheet1.csv" with string IDs in the first column and English translation in the 8th column, from the second row down. These parameters may be relaxed in the future, but are also easy to change by editing the file. The output is texts.xml.
+* *texts.xml* goes in \res_ru\ inside the game directory, replacing the *texts.xml* file already there.
 
-## Uninstall
+  * In a Steam installation, this is C:\Program Files (x86)\Steam\steamapps\common\Phineas and Ferb New Inventions\res_ru\
+  
+  * Alternatively that directory may be in the \Program Files\ instead of \Program Files (x86)\
+
+### Building from Source
+
+**CsvToXml.py** takes a csv with translation information and constructs an XML file which can be used for the patch. Currently, it is hardcoded to take a csv with the name "P&F NI Translation Spreadsheet - Sheet1.csv" with string IDs in the first column and English translation in the 8th column, from the second row down. These parameters may be relaxed in the future, but are also easy to change by editing the file. The output is texts.xml
+
+### Uninstall
 
 The English language patch is currently built to replace the Russian language. For uninstalling the current beta...
 
@@ -37,6 +47,7 @@ If any other files were deleted or replaced, you could try to restore files thro
 Alternatively, you could redownload specific files from the archive. https://archive.org/details/phineas-and-ferb-new-inventions
 
 # Credits
+
 ChainSwordCS - Organization, translation.
 
 Eiim - Organization, translation, programming.
