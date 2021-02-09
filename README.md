@@ -22,11 +22,13 @@ Feel free to link to this Github repo and share it.
 
 ### Building from Source
 
-**CsvToXml.py** takes a csv with translation information and constructs an XML file which can be used for the patch. Currently, it is hardcoded to take a csv with the name "P&F NI Translation Spreadsheet - Sheet1.csv" with string IDs in the first column and English translation in the 8th column, from the second row down. These parameters may be relaxed in the future, but are also easy to change by editing the file. The output is texts.xml
+Run **CsvToXml.py** with **P&F NI Translation Spreadsheet - Sheet1.csv** in the same folder. It will output **texts.xml** which can be installed via the install instructions above.
+
+**CsvToXml.py** takes a csv with translation information and constructs an XML file which can be used for the patch. Currently, it is hardcoded to take a csv with the name "P&F NI Translation Spreadsheet - Sheet1.csv" with string IDs in the first column and English translation in the 8th column, from the second row down. These parameters may be relaxed in the future, but are also easy to change by editing the file.
 
 ### Uninstall
 
-The English language patch is currently built to replace the Russian language. For uninstalling the current beta...
+The English language patch is currently built to replace the Russian language. For uninstalling the current version:
 
 * Download the Russian *texts.xml* 
 
