@@ -10,7 +10,9 @@ Currently, please do not redistribute this without my (ChainSwordCS) express per
 
 # Installation
 
-There are no instructions at this time for installing the English patch.
+## Translation files to language files
+
+CsvToXml.py takes a csv with translation information and constructs an XML files which can be used for the patch. Currently, it is hardcoded to take the csv with the name "P&F NI Translation Spreadsheet - Sheet1.csv" with string IDs in the first column and English translation in the 8th column, from the second row down. These parameters may be relaxed in the future, but are also easy to change by editing the file. The output is texts.xml.
 
 ## Uninstall
 
