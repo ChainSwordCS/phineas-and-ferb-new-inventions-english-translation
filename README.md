@@ -19,6 +19,12 @@ Feel free to link to this Github repo and share it.
   * In a Steam installation, this is C:\Program Files (x86)\Steam\steamapps\common\Phineas and Ferb New Inventions\res_ru\
   
   * Alternatively that directory may be in the \Program Files\ instead of \Program Files (x86)\
+  
+* It will ask you for some options.
+
+  * For the base game files, any language can be selected, according to your preferences.
+  
+  * For the additional credits, it is recommended to select "y" **unless** you have already installed with additional credits.
 
 ### Building from Source
 
