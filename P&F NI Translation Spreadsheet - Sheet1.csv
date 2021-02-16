@@ -1,0 +1,1121 @@
+id,text (russian),text (czech),text (polish),auto translate (russian),auto translate (czech),auto translate (polish),Final English Translation
+STR_RUSSIAN,,,,,,,Russian
+STR_ENGLISH,,,,,,,English
+STR_POLISH,,,,,,,Polish
+STR_CZECH,,,,,,,Czech
+STR_LEVEL,,,,,,,Level
+STR_PRC_PROCEED,,,,,,,Continue
+STR_SELECT,,,,,,,CHOOSE!
+STR_THEORY,,,,,,,THEORY
+STR_PRACTICE,,,,,,,PRACTICE
+STR_CORRECT,,,,,,,Correct!
+STR_UNCORRECT,,,,,,,Incorrect!
+STR_WIN,,,,,,,You win!
+STR_LOOSE,,,,,,,You lose!
+STR_WIN_LVL,,,,,,,LEVEL COMPLETE!
+STR_LOST_LVL,,,,,,,TRY AGAIN!
+STR_YES,,,,,,,YES
+STR_NO,,,,,,,NO
+STR_PLAYER,,,,,,,Player
+STR_FROM,,,,,,,of 
+STR_KG,,,,,,,kg
+STR_DEBUG_MAIN,,,,,,,MAIN MENU
+STR_DEBUG_CHOOSE_LVL,,,,,,,Select level:
+STR_DEBUG_CHAPTER_1,,,,,,,Chapter 1
+STR_DEBUG_CHAPTER_2,,,,,,,Chapter 2
+STR_DEBUG_CHAPTER_3,,,,,,,Chapter 3
+STR_DEBUG_THEORY,,,,,,,THEORY
+STR_DEBUG_PRACTICE,,,,,,,PRACTICE
+STR_DEBUG_MG_1,,,,,,,MI_1
+STR_DEBUG_BMG_1,,,,,,,BMI_1
+STR_DEBUG_EDITOR,,,,,,,EDITOR
+STR_DEBUG_MG_2,,,,,,,MI_2
+STR_DEBUG_BMG_2,,,,,,,BMI_2
+STR_DEBUG_MG_3_1,,,,,,,#VALUE!
+STR_DEBUG_MG_3_2,,,,,,,#VALUE!
+STR_DEBUG_BMG_3,,,,,,,#VALUE!
+STR_EXIT_CONFR,,,,,,,Are you sure you want to quit?
+STR_PLAYER_CONFR,,,,,,,Now playing
+STR_PLAYER_TITLE,,,,,,,Choose a character!
+STR_400_COMPLETE,,,,,,,Complete!
+STR_400_TOPSECRET,,,,,,,Top secret
+STR_400_MISSION_COMPLETE,,,,,,,Mission complete!
+STR_400_OPEN_1,,,,,,,Chapter one available!
+STR_400_OPEN_2,,,,,,,Chapter two available!
+STR_400_OPEN_3,,,,,,,Chapter 3 available!
+STR_400_CREDITS,,,,,,,Credits
+STR_400_MISSION_OPEN,,,,,,,Secret mission available
+STR_400_MISSION_PASS,,,,,,,Secret mission complete
+STR_400_FROM_START,,,,,,,The game will start from the beginning.
+STR_400_START_PHINEAS,,,,,,,We decided to build the world's coolest rollercoaster! Join us!
+STR_400_START_PHINEAS_ADD,,,,,,,"If you want to play, let me know. But first, talk to Ferb for the theoretical training."
+STR_400_START_FERB,,,,,,,Yeah.
+STR_400_WAIT_01,,,,,,,"If you want to play, let me know!"
+STR_400_WAIT_02,,,,,,,"If you need to learn the theory, you should go talk to Ferb!"
+STR_400_WAIT_03,,,,,,,"Try to teach Perry a trick. Platypuses are known for their laziness, but you might just succeed!"
+STR_400_UNCORR_PHINEAS_01,,,,,,,Nope.
+STR_400_UNCORR_PHINEAS_02,,,,,,,No way.
+STR_400_UNCORR_FERB_01,,,,,,,No.
+STR_400_UNCORR_FERB_02,,,,,,,That won't work.
+STR_400_WAIT_PHINEAS_01,,,,,,,"We're still a long way from that. First, let's focus on the basics."
+STR_400_WAIT_PHINEAS_02,,,,,,,You need to know the theory first. Ferb will help you.
+STR_400_WAIT_FERB_01,,,,,,,We aren't ready for this yet.
+STR_400_WAIT_PERRY_01,,,,,,,"This mission is in the planning stage. It's still top-secret. Be patient, Agent P."
+STR_400_WAIT_PERRY_02,,,,,,,"You'll need a secret gadger for this mission. Look for the missing parts, Agent P."
+STR_400_ADD_PERRY_01,,,,,,,"Received a new part. Congratulations, Agent P."
+STR_400_ADD_PERRY_02,,,,,,,"Obtained new parts. Way to go, Agent P."
+STR_400_NEW_PERRY,,,,,,,"Mission unlocked. Go complete it immediately, Agent P."
+STR_400_NEW_PHINEAS,,,,,,,"New game unlocked. If you want to play, talk to me, Phineas."
+STR_400_NEW_FERB,,,,,,,"A new theory course is unlocked. If you want to start, talk to me, Ferb."
+STR_400_SUBTITLES_OFF,,,,,,,Subtitles off.
+STR_400_SUBTITLES_ON,,,,,,,Subtitles on.
+STR_400_VOLUME_UP,,,,,,,Louder.
+STR_400_VOLUME_DOWN,,,,,,,Quieter.
+STR_400_HELP_TRAINING,,,,,,,"Talk to me, Ferb, if you want to take a theory course. It will help you unlock new games and secret missions."
+STR_400_HELP_GAME,,,,,,,Let me know if you want to play.
+STR_400_HELP_BONUS,,,,,,,Agent P is working undercover as a mindless pet. Click on him to open the secret mission journal.
+STR_400_HELP_SETTINGS,,,,,,,"Click on the speakers to adjust the volume, and turn on or off subtitles."
+STR_400_WANT_CHANGE,,,,,,,Do you want to change the player?
+STR_400_WANT_QUIT,,,,,,,Are you sure you want to quit?
+STR_400_NEW_PLAYER,,,,,,,"Hooray, we have a new player! Hi there!"
+STR_400_CONF_YES,,,,,,,Yes.
+STR_400_CONF_NO,,,,,,,No.
+STR_400_PLAYER_HI,,,,,,,"Hi! Quick, enter your name and let's play!"
+STR_CONTEXT_HELP,,,,,,,Help
+STR_CONTEXT_CONTINUE_GAME,,,,,,,Continue game
+STR_CONTEXT_CONTINUE_BONUS,,,,,,,Continue mission
+STR_CONTEXT_MENU,,,,,,,Back to yard
+STR_CONTEXT_EXIT,,,,,,,Quit the game
+STR_CONTEXT_AGAIN,,,,,,,Try again!
+STR_CONTEXT_REPEATE,,,,,,,Repeat task
+STR_CONTEXT_CONTINUE_PRC,,,,,,,Continue
+STR_CONTEXT_SKIP,,,,,,,Skip this question
+STR_CONTEXT_END,,,,,,,Finish training
+STR_401_SUBTITLES,,,,,,,SUBTITLES
+STR_403_CHAPTER_1,,,,,,,SIZE THEORY FOR INVENTORS
+STR_403_CHAPTER_2,,,,,,,WEIGHT AND TEMPERATURE CRASH COURSE
+STR_403_CHAPTER_3,,,,,,,"ADDITION, SUBTRACTION, AND OTHER MATH"
+STR_404_WELLCOME,,,,,,,Welcome!
+STR_404_PLAYER,,,,,,,Player
+STR_404_PROGRESS,,,,,,,PROGRESS
+STR_404_CHAPTER_1,,,,,,,Chapter 1
+STR_404_CHAPTER_2,,,,,,,Chapter 2
+STR_404_CHAPTER_3,,,,,,,Chapter 3
+STR_404_CHANGE,,,,,,,CHANGE PLAYER
+STR_404_COMPLETE,,,,,,,Complete
+STR_404_PLAY,,,,,,,PLAY
+STR_404_QUIT,,,,,,,QUIT GAME
+STR_405_TITLE,,,,,,,CREDITS
+STR_406_TITLE,,,,,,,SECRET MISSION JOURNAL
+STR_406_PARTS,,,,,,,DETAILS
+STR_406_NEEDFOR,,,,,,,You need to complete a secret mission
+STR_406_TABTITLE_1,,,,,,,HOVERCRAFT
+STR_406_OBJTITLE_1,,,,,,,Invisibility cloak
+STR_406_PART_1_1,,,,,,,GPU
+STR_406_PART_1_2,,,,,,,Cryogenics chamber
+STR_406_PART_1_3,,,,,,,2 Mirrors
+STR_406_PART_1_4,,,,,,,2 Fiber optics cables
+STR_406_TABTITLE_2,,,,,,,IRON GRIP
+STR_406_OBJTITLE_2,,,,,,,Spy scanner
+STR_406_PART_2_1,,,,,,,Miniature camera
+STR_406_PART_2_2,,,,,,,Satellite dish
+STR_406_PART_2_3,,,,,,,Air pollution sensor
+STR_406_PART_2_4,,,,,,,2 Batteries
+STR_406_PART_2_5,,,,,,,Screen
+STR_406_TABTITLE_3,,,,,,,MAGNETIC STORY
+STR_406_OBJTITLE_3,,,,,,,Jetpack
+STR_406_PART_3_1,,,,,,,Fuel tank
+STR_406_PART_3_2,,,,,,,Fuel hose
+STR_406_PART_3_3,,,,,,,2 Nozzles
+STR_406_PART_3_4,,,,,,,Panel
+STR_406_PART_3_5,,,,,,,Regulator
+STR_406_COMPLETE,,,,,,,COMPELTE:
+STR_RESULT_UNLOCK,,,,,,,Unlocked
+STR_RESULT_QUESTION,,,,,,,QUESTION
+STR_RESULT_VALUE,,,,,,,Score
+STR_RESULT_CONTINUE,,,,,,,Fix mistakes
+STR_RESULT_REPLAY,,,,,,,TRY AGAIN
+STR_RESULT_TITLE,,,,,,,RESULTS
+STR_RESULT_SKIPPED,,,,,,,SKIPPED
+STR_RESULT_CORR_TITLE,,,,,,,CORRECT ANSWERS
+STR_RESULT_SKIPPED_TITLE,,,,,,,SKIPPED QUESTIONS
+STR_RESULT_GOOD_1,,,,,,,Excellent!
+STR_RESULT_GOOD_2,,,,,,,You did well!
+STR_RESULT_WELL,,,,,,,Not bad.
+STR_RESULT_TRY_AGAYN_1,,,,,,,Do you want to do it again?
+STR_RESULT_TRY_AGAYN_2,,,,,,,Do you want to try again?
+STR_FINDPART_FIND_1,,,,,,,Obtained new parts.
+STR_FINDPART_FIND_2,,,,,,,Congratulations! You got a key part.
+STR_FINDPART_TITLE,,,,,,,GOT NEW PARTS!
+STR_PARTNAME_1_1,,,,,,,GPU
+STR_PARTNAME_1_2,,,,,,,Cryogenics chamber
+STR_PARTNAME_1_3,,,,,,,Mirror
+STR_PARTNAME_1_4,,,,,,,Mirror
+STR_PARTNAME_1_5,,,,,,,Fiber optic cable
+STR_PARTNAME_1_6,,,,,,,Fiber optic cable
+STR_PARTNAME_2_1,,,,,,,Miniature camera
+STR_PARTNAME_2_2,,,,,,,Satellite dish
+STR_PARTNAME_2_3,,,,,,,Air pollution sensor
+STR_PARTNAME_2_4,,,,,,,Battery
+STR_PARTNAME_2_5,,,,,,,Battery
+STR_PARTNAME_2_6,,,,,,,Screen
+STR_PARTNAME_3_1,,,,,,,Fuel tank
+STR_PARTNAME_3_2,,,,,,,Fuel hose
+STR_PARTNAME_3_3,,,,,,,Nozzle
+STR_PARTNAME_3_4,,,,,,,Nozzle
+STR_PARTNAME_3_5,,,,,,,Corset
+STR_PARTNAME_3_6,,,,,,,Regulator
+STR_PRC_COMPLETE,,,,,,,Done!
+STR_PRC_TASK,,,,,,,question 
+STR_PRC_1_LENGTH,,,,,,,length
+STR_PRC_1_HEIGHT,,,,,,,height
+STR_PRC_1_1_CM_3,,,,,,,1 cm3
+STR_PRC_1_10_CM,,,,,,,10 cm
+STR_PRC_1_1_L,,,,,,,1 liter
+STR_PRC_1_6_CM,,,,,,,6 cm
+STR_PRC_1_8_CM,,,,,,,8 cm
+STR_PRC_1_9_CM,,,,,,,9 cm
+STR_PRC_1_5_CM,,,,,,,5 cm
+STR_PRC_1_7_CM,,,,,,,7 cm
+STR_PRC_2_TAPE,,,,,,,tape measure
+STR_PRC_2_GPS,,,,,,,GPS navigator
+STR_PRC_2_CLOCK,,,,,,,clock
+STR_PRC_2_SCALES,,,,,,,scales
+STR_PRC_2_KG_MORE,,,,,,,More than 1 kg
+STR_PRC_2_KG_EQUALL,,,,,,,1 kg
+STR_PRC_2_KG_LESS,,,,,,,Less than 1 kg
+STR_PRC_2_1_KG,,,,,,,1 kg
+STR_PRC_2_2_KG,,,,,,,2 kg
+STR_PRC_2_3_L,,,,,,,3 kg
+STR_PRC_2_1_L,,,,,,,1 liter
+STR_PRC_2_1_L_NONE,,,,,,,liter
+STR_PRC_2_1_CM_3,,,,,,,cm3
+STR_PRC_2_1_CM,,,,,,,cm
+STR_PRC_2_DEGREE,,,,,,,degree
+STR_PRC_2_SPEEDO,,,,,,,Speedometer
+STR_PRC_2_THERMO,,,,,,,Thermometer
+STR_PRC_2_CHRONO,,,,,,,Stopwatch
+STR_PRC_2_COMPASS,,,,,,,Compass
+STR_PRC_2_5_KG,,,,,,,5 kg
+STR_PRC_2_8_KG,,,,,,,8 kg
+STR_PRC_2_10_KG,,,,,,,10 kg
+STR_PRC_2_20_DGR,,,,,,,20 C
+STR_PRC_2_50_DGR,,,,,,,50 C
+STR_PRC_2_100_DGR,,,,,,,100 C
+STR_PRC_2_M5_DGR,,,,,,,-5 C
+STR_PRC_2_M10_DGR,,,,,,,-10 C
+STR_PRC_2_M20_DGR,,,,,,,-20 C
+STR_PRC_3_INC,,,,,,,increases
+STR_PRC_3_DEC,,,,,,,decreases
+STR_PRC_3_TODIFF,,,,,,,becomes the difference
+STR_PRC_3_DONTCHANGE,,,,,,,does not change
+STR_PRC_3_DIFFERENCE,,,,,,,difference
+STR_PRC_3_AMOUNT,,,,,,,sum
+STR_PRC_3_SUMMAND,,,,,,,addend
+STR_PRC_3_SUBTRAHEND,,,,,,,subtrahend
+STR_PRC_3_MINUEND,,,,,,,minuend
+STR_PRC_3_COMPONENTS,,,,,,,components
+STR_PRC_3_TERMS,,,,,,,addends
+STR_PRC_3_FOLDED,,,,,,,counted
+STR_PRC_3_STORABLE,,,,,,,stored
+STR_PRC_3_DEDUCT,,,,,,,minus
+STR_PRC_3_REDUCED,,,,,,,reduced
+STR_PRC_3_TAKEN,,,,,,,taken away
+STR_PRC_3_2_KG,,,,,,,2 kg +
+STR_PRC_3_2_KG_NONE,,,,,,,2 kg
+STR_PRC_3_3_KG,,,,,,,3 kg
+STR_PRC_3_1_KG,,,,,,,1 kg
+STR_PRC_3_9_M,,,,,,,9 meters
+STR_PRC_3_11_M,,,,,,,11 meters
+STR_PRC_3_12_M,,,,,,,12 meters
+STR_PRC_MOVING,,,,,,,Arrange objects in the right place
+STR_PRC_CHECK,,,,,,,Checking...
+STR_PRC_CONFIRM,,,,,,,Confirming...
+STR_PRC_WEIGH,,,,,,,Weigh the object
+STR_PRC_CHOOSE_CARD,,,,,,,Choose any card
+STR_PRC_CHOOSE_CORRECT,,,,,,,Choose the correct option
+STR_PRC_FIND_PAIR,,,,,,,Find a pair of matching objects
+STR_PRC_FLY_LIVES,,,,,,,Lives:
+STR_PRC_CHOOSE_HEAVY,,,,,,,Choose heavy objects
+STR_PRC_CHOOSE_LIGHT,,,,,,,Chosoe light objects
+STR_PRC_CHOOSE_COLD,,,,,,,Find cold objects!
+STR_PRC_CHOOSE_NORMAL,,,,,,,Find objects of normal temperature!
+STR_PRC_CHOOSE_HOT,,,,,,,Find hot objects!
+STR_PRC_CAR,,,,,,,Choose your vehicle
+STR_PRC_KIDS,,,,,,,Drag the correct number of children to the car.
+STR_PRC_KIDS2,,,,,,,Add the correct number of children to the car.
+STR_PRC_WEIGHTC1,,,,,,,Remove items from the scales
+STR_PRC_WEIGHTC2,,,,,,,Balance the scales
+STR_PRC_FINISH,,,,,,,Done
+STR_PRC_1_QUESTION_01,,,,,,,Which of these boards is the longest?
+STR_PRC_1_QUESTION_02,,,,,,,Which of these boards is the shortest?
+STR_PRC_1_QUESTION_03,,,,,,,Find three boards of equal length.
+STR_PRC_1_QUESTION_04,,,,,,,Which beam is the longest?
+STR_PRC_1_QUESTION_05,,,,,,,Which beam is the shortest?
+STR_PRC_1_QUESTION_06,,,,,,,Find three beams of equal length.
+STR_PRC_1_QUESTION_07,,,,,,,Which car is the biggest?
+STR_PRC_1_QUESTION_08,,,,,,,Which car is the smallest?
+STR_PRC_1_QUESTION_09,,,,,,,Find three cars of the same size.
+STR_PRC_1_QUESTION_10,,,,,,,Find the container with the largest volume.
+STR_PRC_1_QUESTION_11,,,,,,,Find the container with the smallest volume.
+STR_PRC_1_QUESTION_12,,,,,,,Find three containers with the same volume.
+STR_PRC_1_QUESTION_13,,,,,,,What can you use to help you measure length?
+STR_PRC_1_QUESTION_14,,,,,,,What can you use to help you measure the volume of a box?
+STR_PRC_1_QUESTION_15,,,,,,,What can you use to help you measure the volume of a bottle?
+STR_PRC_1_QUESTION_16,,,,,,,We need a ladder to build the tracks. Help us build it. Find boards with the same length as the first and last rung and use the mouse to drag them to the white templates.
+STR_PRC_1_QUESTION_17,,,,,,,Help Phineas build supports for the track. Find beams with the same length as the white templates and drag them to the right place.
+STR_PRC_1_QUESTION_18,,,,,,,Help Phineas hammer each nail. Click on a hammer and then a matching nail.
+STR_PRC_1_QUESTION_19,,,,,,,"Help Phineas lay the bricks onto the trucks. First, click the bricks, then click a truck of the right size."
+STR_PRC_1_QUESTION_20,,,,,,,Help Phineas pour the water into the containers. Click on a truck and then a tank with the right volume.
+STR_PRC_1_QUESTION_21,,,,,,,Measure each item with an appropiate tool. First click on the tool and then a matching item.
+STR_PRC_1_QUESTION_22,,,,,,,"Measure the length of the truck with a ruler. Drag the ruler to the truck, measure it, and then select the correct answer."
+STR_PRC_1_QUESTION_23,,,,,,,"Measure the length of the truck with a ruler. Drag the ruler to the truck, measure it, and then select the correct answer."
+STR_PRC_1_QUESTION_24,,,,,,,"Measure the length of the truck with a ruler. Drag the ruler to the truck, measure it, and then select the correct answer."
+STR_PRC_1_QUESTION_25,,,,,,,"Measure the height of the crane with a ruler. Drag the ruler to the truck, measure it, and then select the correct answer."
+STR_PRC_1_QUESTION_26,,,,,,,"Measure the height of the crane with a ruler. Drag the ruler to the truck, measure it, and then select the correct answer."
+STR_PRC_1_QUESTION_27,,,,,,,"Measure the height of the crane with a ruler. Drag the ruler to the truck, measure it, and then select the correct answer."
+STR_PRC_1_QUESTION_28,,,,,,,"Arrange items on the steps in ascending order, from smallest volume to largest."
+STR_PRC_1_QUESTION_29,,,,,,,"Arrange items on the steps in descending order, from largest volume to smallest."
+STR_PRC_2_QUESTION_01,,,,,,,Which of these items is the heavest?
+STR_PRC_2_QUESTION_02,,,,,,,Which of these items is the lightest?
+STR_PRC_2_QUESTION_03,,,,,,,What instrument is used to find weight?
+STR_PRC_2_QUESTION_04,,,,,,,What is the weight of the object?
+STR_PRC_2_QUESTION_05,,,,,,,What is the weight of the object?
+STR_PRC_2_QUESTION_06,,,,,,,What is the weight of the object?
+STR_PRC_2_QUESTION_07,,,,,,,Which of these objects is heavier?
+STR_PRC_2_QUESTION_08,,,,,,,Which of these objects is lighter?
+STR_PRC_2_QUESTION_09,,,,,,,Find three objects with the same weight.
+STR_PRC_2_QUESTION_10,,,,,,,Find the hottest object.
+STR_PRC_2_QUESTION_11,,,,,,,Find the coldest object.
+STR_PRC_2_QUESTION_12,,,,,,,Find two items with the same temperature.
+STR_PRC_2_QUESTION_13,,,,,,,In what units can we measure weight?
+STR_PRC_2_QUESTION_14,,,,,,,In what units can we measure temperature?
+STR_PRC_2_QUESTION_15,,,,,,,What object is used to find temperature?
+STR_PRC_2_QUESTION_16,,,,,,,Find heavy objects and click on them with the left mosue button.
+STR_PRC_2_QUESTION_17,,,,,,,Find light objects and click on them with the left mouse button
+STR_PRC_2_QUESTION_18,,,,,,,Place the correct amount of weights on the empty end of the scales so that it balances. A sack of potatoes weighs 9 kg.
+STR_PRC_2_QUESTION_19,,,,,,,Place the correct amount of weights on the empty end of the scales so that it balances. A water bottle weighs 5 kg.
+STR_PRC_2_QUESTION_20,,,,,,,Place the correct amount of weights on the empty end of the scales so that it balances. A watermelon weighs 7 kg.
+STR_PRC_2_QUESTION_21,,,,,,,Find the right weight for each object. Click the object and then the correct weight.
+STR_PRC_2_QUESTION_22,,,,,,,Find the right thermometer for each object. Click on the object and then the correct thermometer.
+STR_PRC_2_QUESTION_23,,,,,,,Find cold objects and click on them.
+STR_PRC_2_QUESTION_24,,,,,,,Find objects at normal temperature and click on them.
+STR_PRC_2_QUESTION_25,,,,,,,Some of these objects were just heated and are very hot. Click on them.
+STR_PRC_2_QUESTION_26,,,,,,,Some of these objects were just removed from the freezer and are very cold. Click on them.
+STR_PRC_2_QUESTION_27,,,,,,,Find the weight of the object with the scales. Put the item on the scale and remember the number as indicated by the arrow. Then select the correct answer.
+STR_PRC_2_QUESTION_28,,,,,,,Measure the temperature of the liquid with a thermometer. Put the thermometer in the liquid and remember which number it stops on. Then select the correcty answer.
+STR_PRC_2_QUESTION_29,,,,,,,Measure the temperature of the object with a thermometer. Touch the thermometer to the object and remember which number it stops on. Then choose the right answer.
+STR_PRC_2_QUESTION_30,,,,,,,Arrange items on the steps in order from lightest to heaviest.
+STR_PRC_2_QUESTION_31,,,,,,,Arrange items on the steps in order from heaviest to lightest.
+STR_PRC_3_QUESTION_01,,,,,,,Which of these examples is right?
+STR_PRC_3_QUESTION_02,,,,,,,Which of these examples is wrong?
+STR_PRC_3_QUESTION_03,,,,,,,Find two examples where the solution is 4.
+STR_PRC_3_QUESTION_04,,,,,,,"When we change the order of the added numbers, the sum..."
+STR_PRC_3_QUESTION_05,,,,,,,The number you get from adding two numbers together is called...
+STR_PRC_3_QUESTION_06,,,,,,,The number you get from subtracting two numbers is called...
+STR_PRC_3_QUESTION_07,,,,,,,The numbers that are added are called...
+STR_PRC_3_QUESTION_08,,,,,,,The number which is subtracted from is called...
+STR_PRC_3_QUESTION_09,,,,,,,The number which is subtracted is called...
+STR_PRC_3_QUESTION_10,,,,,,,There are 5 girls and 3 boys in the carriage. How many people should we add so that the total is 10?
+STR_PRC_3_QUESTION_11,,,,,,,There are 5 girls and 6 boys in the carriage. How many people have to get out so that there are only 7 passengers?
+STR_PRC_3_QUESTION_12,,,,,,,"The carriage can go if it has 8 passengers. It currently has 12. Count how many have to disembark, and drag the right amount back to the platform."
+STR_PRC_3_QUESTION_13,,,,,,,"The carriage can go if it has 8 passengers. It currently has 3. Count how many have to get in,and drag the right amount back to the carriage."
+STR_PRC_3_QUESTION_14,,,,,,,Count how many passengers can fit in each carriage and click on the correct number.
+STR_PRC_3_QUESTION_15,,,,,,,Count how many passengers must be in each carriage for it to go and click on the correct number.
+STR_PRC_3_QUESTION_16,,,,,,,"Find the example which results in the number below. When you find it, click on the right carriage."
+STR_PRC_3_QUESTION_17,,,,,,,Add the weights of the items on the scale and select the correct number.
+STR_PRC_3_QUESTION_18,,,,,,,Remove items from the scale so that the total weight is equal to the number shown by the arrow.
+STR_PRC_3_QUESTION_19,,,,,,,"Help the children get into the carriage. Solve the problem, select the appropriate length of the ladder, and bring it to the carriage."
+STR_SC311_PRT1_QUESTION_01,,,,,,,Which of these boards is the longest?
+STR_SC311_PRT1_QUESTION_02,,,,,,,Which of these boards is the shortest?
+STR_SC311_PRT1_QUESTION_03,,,,,,,Find three boards of equal length.
+STR_SC311_PRT1_QUESTION_04,,,,,,,Which beam is the longest?
+STR_SC311_PRT1_QUESTION_05,,,,,,,Which beam is the shortest?
+STR_SC311_PRT1_QUESTION_06,,,,,,,Find three beams of equal length.
+STR_SC311_PRT1_QUESTION_07,,,,,,,Which car is the biggest?
+STR_SC311_PRT1_QUESTION_08,,,,,,,Which car is the smallest?
+STR_SC311_PRT1_QUESTION_09,,,,,,,Find three cars of the same size.
+STR_SC311_PRT1_QUESTION_10,,,,,,,Find the container with the largest volume.
+STR_SC311_PRT1_QUESTION_11,,,,,,,Find the container with the smallest volume.
+STR_SC311_PRT1_QUESTION_12,,,,,,,Find three containers with the same volume.
+STR_SC311_PRT1_QUESTION_13,,,,,,,What can you use to help you measure length?
+STR_SC311_PRT1_QUESTION_14,,,,,,,What can you use to help you measure the volume of a box?
+STR_SC311_PRT1_QUESTION_15,,,,,,,What can you use to help you measure the volume of a bottle?
+STR_SC311_PRT1_QUESTION_16,,,,,,,We need a ladder to build the tracks. Help us build it. Find boards with the same length as the first and last rung and use the mouse to drag them to the white templates.
+STR_SC311_PRT1_QUESTION_16_CUT,,,,,,,Make a ladder with the correct length boards.
+STR_SC311_PRT1_QUESTION_17,,,,,,,Help Phineas build supports for the track. Find beams with the same length as the white templates and drag them to the right place.
+STR_SC311_PRT1_QUESTION_18,,,,,,,Help Phineas hammer each nail. Click on a hammer and then a matching nail.
+STR_SC311_PRT1_QUESTION_19,,,,,,,"Help Phineas lay the bricks onto the trucks. First, click the bricks, then click a truck of the right size."
+STR_SC311_PRT1_QUESTION_20,,,,,,,Help Phineas pour the water into the containers. Click on a truck and then a tank with the right volume.
+STR_SC311_PRT1_QUESTION_21,,,,,,,Measure each item with an appropiate tool. First click on the tool and then a matching item.
+STR_SC311_PRT1_QUESTION_21_CUT,,,,,,,Find the right tool to measure each object.
+STR_SC311_PRT1_QUESTION_22_23_24,,,,,,,"Measure the length of the machine with a ruler. Drag the ruler to the machine, measure it, and then select the correct answer."
+STR_SC311_PRT1_QUESTION_25_26_27,,,,,,,"Measure the height of the machine with a ruler. Drag the ruler to the machine, measure it, and then select the correct answer."
+STR_SC311_PRT1_QUESTION_28,,,,,,,"Arrange items on the steps in ascending order, from smallest volume to largest."
+STR_SC311_PRT1_QUESTION_29,,,,,,,"Arrange items on the steps in descending order, from largest volume to smallest."
+STR_SC311_PRT2_QUESTION_01,,,,,,,Which of these objects is the heaviest?
+STR_SC311_PRT2_QUESTION_02,,,,,,,Which of these objects is the lightest?
+STR_SC311_PRT2_QUESTION_03,,,,,,,What instrument is used to find weight?
+STR_SC311_PRT2_QUESTION_04_05_06,,,,,,,What is the weight of the object?
+STR_SC311_PRT2_QUESTION_07,,,,,,,Which of these objects is heavier?
+STR_SC311_PRT2_QUESTION_08,,,,,,,Which of these objects is lighter?
+STR_SC311_PRT2_QUESTION_09,,,,,,,Find three objects with the same weight.
+STR_SC311_PRT2_QUESTION_10,,,,,,,Find the hottest object.
+STR_SC311_PRT2_QUESTION_11,,,,,,,Find the coldest object.
+STR_SC311_PRT2_QUESTION_12,,,,,,,Find two items with the same temperature.
+STR_SC311_PRT2_QUESTION_13,,,,,,,In what units can we measure weight?
+STR_SC311_PRT2_QUESTION_14,,,,,,,In what units can we measure temperature?
+STR_SC311_PRT2_QUESTION_15,,,,,,,What object is used to find temperature?
+STR_SC311_PRT2_QUESTION_16,,,,,,,"Find heavy objects, then click the left mosue button."
+STR_SC311_PRT2_QUESTION_17,,,,,,,"Find light objects, then click the left mouse button"
+STR_SC311_PRT2_QUESTION_18,,,,,,,Place the correct amount of weights on the empty end of the scales so that it balances. A sack of potatoes weighs 9 kg.
+STR_SC311_PRT2_QUESTION_19,,,,,,,Place the correct amount of weights on the empty end of the scales so that it balances. A water bottle weighs 5 kg.
+STR_SC311_PRT2_QUESTION_20,,,,,,,Place the correct amount of weights on the empty end of the scales so that it balances. A watermelon weighs 7 kg.
+STR_SC311_PRT2_QUESTION_21,,,,,,,Find the right weight for each object. Click the object and then the correct weight.
+STR_SC311_PRT2_QUESTION_22,,,,,,,Find the right thermometer for each object. Click on the object and then the correct thermometer.
+STR_SC311_PRT2_QUESTION_23,,,,,,,Find cold objects and click on them.
+STR_SC311_PRT2_QUESTION_24,,,,,,,Find objects at normal temperature and click on them.
+STR_SC311_PRT2_QUESTION_25,,,,,,,Some of these objects were just heated and are very hot. Click on them.
+STR_SC311_PRT2_QUESTION_25_CUT,,,,,,,Find hot objects and click on them.
+STR_SC311_PRT2_QUESTION_26,,,,,,,Some of these objects were just removed from the freezer and are very cold. Click on them.
+STR_SC311_PRT2_QUESTION_26_CUT,,,,,,,Find cold objects and click on them.
+STR_SC311_PRT2_QUESTION_27,,,,,,,Find the weight of the object with the scales. Put the item on the scale and remember the number as indicated by the arrow. Then select the correct answer.
+STR_SC311_PRT2_QUESTION_28,,,,,,,Measure the temperature of the liquid with a thermometer. Put the thermometer in the liquid and remember which number it stops on. Then select the correcty answer.
+STR_SC311_PRT2_QUESTION_29,,,,,,,Measure the temperature of the object with a thermometer. Touch the thermometer to the object and remember which number it stops on. Then choose the right answer.
+STR_SC311_PRT2_QUESTION_30,,,,,,,Arrange items on the steps in order from lightest to heaviest.
+STR_SC311_PRT2_QUESTION_31,,,,,,,Arrange items on the steps in order from heaviest to lightest.
+STR_SC311_PRT3_QUESTION_01,,,,,,,Which of these examples is right?
+STR_SC311_PRT3_QUESTION_02,,,,,,,Which of these examples is wrong?
+STR_SC311_PRT3_QUESTION_03,,,,,,,Find two examples where the solution is 4.
+STR_SC311_PRT3_QUESTION_04,,,,,,,When we change the order of the added numbers...
+STR_SC311_PRT3_QUESTION_05,,,,,,,The number you get from adding two numbers together is called...
+STR_SC311_PRT3_QUESTION_06,,,,,,,The number you get from subtracting two numbers is called...
+STR_SC311_PRT3_QUESTION_07,,,,,,,The numbers that are added are called...
+STR_SC311_PRT3_QUESTION_08,,,,,,,The number which is subtracted from is called...
+STR_SC311_PRT3_QUESTION_09,,,,,,,The number which is subtracted is called...
+STR_SC311_PRT3_QUESTION_10,,,,,,,There are 5 girls and 3 boys in the carriage. How many people should we add so that the total is 10?
+STR_SC311_PRT3_QUESTION_11,,,,,,,There are 5 girls and 6 boys in the carriage. How many people have to get out so that there are only 7 passengers?
+STR_SC311_PRT3_QUESTION_12,,,,,,,"The carriage can go if it has 8 passengers. It currently has 12. Count how many have to disembark, and drag the right amount back to the platform."
+STR_SC311_PRT3_QUESTION_13,,,,,,,"The carriage can go if it has 8 passengers. It currently has 3. Count how many have to get in,and drag the right amount back to the carriage."
+STR_SC311_PRT3_QUESTION_14,,,,,,,Count how many passengers can fit in each carriage and click on the correct number.
+STR_SC311_PRT3_QUESTION_15,,,,,,,Count how many passengers must be in each carriage for it to go and click on the correct number.
+STR_SC311_PRT3_QUESTION_16,,,,,,,"Find the example which results in the number below. When you find it, click on the right carriage."
+STR_SC311_PRT3_QUESTION_17,,,,,,,"The rollercoaster ride will make us hungry, so we need to bring plenty of food. But we need to weight the items for the carriage to go. Add the weights of the items on the scale and select the correct number."
+STR_SC311_PRT3_QUESTION_17_A,,,,,,,Add the weights of the items on the scale and select the correct number.
+STR_SC311_PRT3_QUESTION_18,,,,,,,Remove items from the scale so that the total weight is equal to the number shown by the arrow.
+STR_SC311_PRT3_QUESTION_19,,,,,,,"Help the children get into the carriage. Solve the problem, select the appropriate length of the ladder, and bring it to the carriage."
+STR_SC311_ALL_WEIGHT_1,,,,,,,One kilogram.
+STR_SC311_ALL_WEIGHT_2,,,,,,,Two kilograms.
+STR_SC311_ALL_WEIGHT_3,,,,,,,Three kilograms.
+STR_SC311_ALL_WEIGHT_4,,,,,,,Four kilograms.
+STR_SC311_ALL_WEIGHT_5,,,,,,,Five kilograms.
+STR_SC311_ALL_WEIGHT_6,,,,,,,Six kilograms.
+STR_SC311_ALL_WEIGHT_7,,,,,,,Seven kilograms.
+STR_SC311_ALL_WEIGHT_8,,,,,,,Eight kilograms.
+STR_SC311_ALL_WEIGHT_9,,,,,,,Nine kilograms.
+STR_SC311_ALL_WEIGHT_10,,,,,,,Ten kilograms.
+STR_SC311_PRT_ALL_CHECK,,,,,,,Checking...
+STR_SC311_PRT_ALL_CHECK2,,,,,,,Let's check the answers ...
+STR_SC311_PTR_ALL_ONE,,,,,,,One.
+STR_SC311_PTR_ALL_TWO,,,,,,,Two.
+STR_SC311_PTR_ALL_THREE,,,,,,,Three.
+STR_SC311_PTR_ALL_CORRECT1,,,,,,,That's right!
+STR_SC311_PTR_ALL_CORRECT2,,,,,,,Good!
+STR_SC311_PTR_ALL_CORRECT3,,,,,,,Correct!
+STR_SC311_PTR_ALL_UNCORRECT1,,,,,,,The correct answer was not found!
+STR_SC311_PTR_ALL_UNCORRECT2,,,,,,,Try again!
+STR_SC311_PTR_FLAY_UNCORRECT1,,,,,,,Oops!
+STR_SC311_PTR_FLAY_UNCORRECT2,,,,,,,Nope!
+STR_SC311_PTR_FLAY_UNCORRECT3,,,,,,,Try again!
+STR_SC311_PTR_SHOW_CORRECT1,,,,,,,Here is the correct answer.
+STR_SC311_PTR_SHOW_CORRECT2,,,,,,,Here is the correct answer. It was not too difficult.
+STR_SC311_PTR_SHOW_CORRECT3,,,,,,,That is the correct answer.
+STR_SC311_PTR_START_SCENE1,,,,,,,Starting practical excersizes. Get ready!
+STR_SC311_PTR_START_SCENE2,,,,,,,Attention! We're starting practical excersizes.
+STR_SC311_PTR_END_SCENE1,,,,,,,Practical excersizes complete. Let's go see the results...
+STR_SC311_PTR_END_SCENE2,,,,,,,"Practical excersizes complete, let's check out the results..."
+STR_SC311_PTR_MEASUREMENT1,,,,,,,Measurement. How did we do?
+STR_SC311_PTR_MEASUREMENT2,,,,,,,Make a measurement. Remember the result.
+STR_SC311_PTR_READY1,,,,,,,"Now click the ""Done"" button."
+STR_SC311_PTR_READY2,,,,,,,"If you're confident in the answer, click the ""Done"" button!"
+STR_SC311_PTR_SKYP_QUESTION,,,,,,,Question skipped.
+STR_SC311_FLAY_TRUE,,,,,,,Object identified
+STR_SC311_FLAY_FALSE,,,,,,,Error
+STR_SC311_PHINEAS_HELP,,,,,,,"If you forgot the task, ask Ferb, he'll repeat it for you."
+STR_SC311_FERB_HELP_1,,,,,,,"To drag an object, click on it and hold the mouse button to move it to the right location."
+STR_SC311_FERB_HELP_2,,,,,,,"To drag an object, click on it and hold the mouse button to move it to the right place."
+STR_SC311_FERB_HELP_3,,,,,,,Click the right items with the mouse.
+STR_SC311_FERB_HELP_4,,,,,,,Looks for pairs. Click on one object with the mouse and then a matching one.
+STR_312_PHINEAS_ENTRANCE,,,,,,,Help us quickly load the cart while Candace is on the phone!
+STR_312_PHINEAS_NEW_LEVEL,,,,,,,And another important cart.
+STR_312_PHINEAS_FIRST_LEVEL,,,,,,,The first cart. Here are the necessary materials and tools!
+STR_312_PHINEAS_LAST_LEVEL,,,,,,,"One more cart. This is the last one, I promise!"
+STR_312_PHINEAS_WIN_1,,,,,,,Finished! Let's go!
+STR_312_PHINEAS_WIN_2,,,,,,,Hurray! We did it!
+STR_312_PHINEAS_WIN_LAST,,,,,,,That was the last cart! Now we can start building the coaster!
+STR_312_PHINEAS_WIN_LAST_SHORT,,,,,,,That was the last cart!
+STR_312_PHINEAS_END_OF_TIME_1,,,,,,,"Hurry, time's running out."
+STR_312_PHINEAS_END_OF_TIME_2,,,,,,,"Time's almost up, come on!"
+STR_312_PHINEAS_LOST_CANDYS,,,,,,,"Hey, Phineas and Ferb! What are you doing?"
+STR_312_PHINEAS_LOST,,,,,,,We did the math! It seems that time is up.
+STR_312_PHINEAS_LOST_CANDYS_2,,,,,,,There's nothing here. Strange...
+STR_312_PHINEAS_GOOD_MOVE_1,,,,,,,Great!
+STR_312_PHINEAS_GOOD_MOVE_2,,,,,,,Excellent!
+STR_312_PHINEAS_CANT_PUB_BLOCK_1,,,,,,,That won't work.
+STR_312_PHINEAS_CANT_PUB_BLOCK_2,,,,,,,It won't fit here!
+STR_312_PHINEAS_CANT_PUT_FIGURE_1,,,,,,,Large cargo should be placed is a custom frame.
+STR_312_PHINEAS_CANT_PUT_FIGURE_2,,,,,,,It won't work. This cargo needs a special frame.
+STR_312_PHINEAS_CANT_PUT_FIGURE_3,,,,,,,This needs to be placed in a special frame.
+STR_312_PHINEAS_DONT_MOVE,,,,,,,The clock is ticking...
+STR_312_PHINEAS_TRIANGLE_1,,,,,,,This piece is triangular.
+STR_312_PHINEAS_RECTANGLE,,,,,,,This item is rectangular.
+STR_312_PHINEAS_ROUND_1,,,,,,,This piece is round.
+STR_312_PHINEAS_ROUND_2,,,,,,,This item is round.
+STR_312_PHINEAS_SQUARE,,,,,,,This piece is square.
+STR_312_PHINEAS_ELLIPSE,,,,,,,This item is an oval.
+STR_312_PHINEAS_RHOMBUS,,,,,,,This piece is a diamond.
+STR_312_PHINEAS_HELP_1,,,,,,,Here are all the parts and tools. Let's place them in the cart.
+STR_312_PHINEAS_HELP_2,,,,,,,Some items have a special shape. They need to be placed in the correct frame.
+STR_312_PHINEAS_HELP_3,,,,,,,Use the right mouse button to rotate objects.
+STR_312_PHINEAS_HELP_4,,,,,,,Avoid empty spaces!
+STR_312_PHINEAS_HELP_5,,,,,,,Load the cart before time runs out!
+STR_312_PHINEAS_HELP_6,,,,,,,"To throw away a piece, grap it and drag it to the trash."
+STR_313_START_AUTH,,,,,,,Identifying subject
+STR_312_TIME_IS_OVER,,,,,,,TIME'S UP!
+STR_312_SUPER,,,,,,,SUPER!
+STR_312_ADD_SECONDS,,,,,,,SECONDS
+STR_312_ADD_SECONDS_1,,,,,,,SEC
+STR_312_TRIANGLE,,,,,,,TRIANGLE
+STR_312_ROUND,,,,,,,CIRCLE
+STR_312_RHOMBUS,,,,,,,DIAMOND
+STR_312_ELLIPSE,,,,,,,OVAL
+STR_312_SQUARE,,,,,,,SQUARE
+STR_312_RECTANGLE,,,,,,,RECTANGLE
+STR_312_EMPTY_PLACE,,,,,,,BLANK SPACE!
+STR_312_UNDER_LVL_TEXT,,,,,,,Time until Candace comes
+STR_312_GREAT,,,,,,,GREAT!
+STR_313_INVIS_START,,,,,,,Invisibility activated
+STR_313_INVIS_WARNING,,,,,,,Invisibility deactivated
+STR_313_REFUSE,,,,,,,Access denied!
+STR_313_WELCOME,,,,,,,"Subject identified. Welcome, Agent P!"
+STR_313_INVIS_END,,,,,,,Invisibility off
+STR_313_INVIS,,,,,,,INVISIBILITY
+STR_313_ZONA,,,,,,,IDENTIFICATION ZONE
+STR_313_START,,,,,,,"Be careful in the secret tunnels, Agent P! I couldn't turn off all the lasers."
+STR_313_WIN,,,,,,,"Well done, Agent P! Keep it up!"
+STR_313_FAIL,,,,,,,"Be careful, Agent P. I don't want to lose my best agent."
+STR_313_ZONA_START,,,,,,,Identifiying.
+STR_313_ZONA_CORR,,,,,,,"Subject recognized. Continue, Agent P."
+STR_313_ZONA_UNCORR,,,,,,,"Access denied! Don't fidget, Agent P!"
+STR_313_BONUS_ON,,,,,,,Invisibility mode on.
+STR_313_BONUS_OFF,,,,,,,Invisibility mode off.
+STR_313_WAIT,,,,,,,"Hurry, Agent P."
+STR_313_HELP_01,,,,,,,Control the hovercraft with the arrow keys.
+STR_313_HELP_02,,,,,,,Don't touch the lasers or the alarm will go off.
+STR_313_HELP_03,,,,,,,"Here a special camera will scan your retina, paw prints, and DNA. Try to stay in the identification zone so your identity can be verified."
+STR_313_HELP_04,,,,,,,This is a chip to activate electromagnetic protection. With it lasers won't hurt you.
+STR_322_NOT_TAKE_PLACE,,,,,,,Don't hold up the line!
+STR_322_MELTING,,,,,,,Melting
+STR_322_TURKEY,,,,,,,Frozen turkey
+STR_322_VEGGIES,,,,,,,Frozen vegetables
+STR_322_ICE,,,,,,,Ice
+STR_322_ICECREAM,,,,,,,Ice cream
+STR_322_FRUITICE,,,,,,,Sorbet
+STR_322_CHEESE,,,,,,,Cheese
+STR_322_YOGURT,,,,,,,Yogurt
+STR_322_POTATO,,,,,,,Potatoes
+STR_322_RICE,,,,,,,Rice
+STR_322_CANDY,,,,,,,Candy
+STR_322_PIZZA,,,,,,,Hot pizza
+STR_322_PATTY,,,,,,,Pastries
+STR_322_CHIKEN,,,,,,,Hot chicken
+STR_322_FISH,,,,,,,Fish
+STR_322_MILK,,,,,,,Milk
+STR_322_CANDIS_ENTRANCE,,,,,,,I have to catch Phineas and Ferb doing their experimets to show my mom! Help me get to the cash register quickly.
+STR_322_CANDIS_PRODUCT_LIST,,,,,,,"Here's out shopping list. Remember the weight and temperature of everything. To get to the checkout faster, we need to take heavy items as late as possible. And try not to put hot and cold items next to each other."
+STR_322_CANDIS_PRODUCT_SHORT,,,,,,,Here's out shopping list. Remember the weight and temperature of the items.
+STR_322_CANDIS_CHOSE_TRUCK,,,,,,,Choose the cart that will reach the checkout first. We need to get ahead.
+STR_322_CANDIS_RACE_START,,,,,,,Three... two... one... Go!
+STR_322_CANDIS_WIN_01,,,,,,,Yes! We did it!
+STR_322_CANDIS_WIN_02,,,,,,,Hooray! We won!
+STR_322_CANDIS_LOSE_01,,,,,,,Oh no! The checkout is closed!
+STR_322_CANDIS_LOSE_02,,,,,,,"Oh no, the checkout is closed now!"
+STR_322_CANDIS_MELTING_01,,,,,,,"Hmm, something thawed and started leaking."
+STR_322_CANDIS_MELTING_02,,,,,,,Our frozen foods... are no longer frozen.
+STR_322_CANDIS_LIGHTINING_STRIKE_01,,,,,,,Ouch!
+STR_322_CANDIS_LIGHTINING_STRIKE_02,,,,,,,Ow!
+STR_322_CANDIS_SPEED_DECREASE,,,,,,,The cart is heavier now and we're barely moving.
+STR_322_CANDIS_SPEED_DECREASE_1,,,,,,,The cart is overloaded and barely dragging along.
+STR_322_CANDIS_HELP_01,,,,,,,Steer your cart with the arrow keys.
+STR_322_CANDIS_HELP_02,,,,,,,An overloaded cart drives slowly.
+STR_322_CANDIS_HELP_03,,,,,,,"If the frozen foods start to thaw, we'll be in trouble."
+STR_322_CANDIS_HELP_04,,,,,,,The checkout will close after the next customer. We need to get there first!
+STR_322_START_MESSAGE,,,,,,,"The checkout will close after the next customer, hurry up!"
+STR_322_CANDIS_END_MESSAGE,,,,,,,"LAST CUSTOMER, CHECKOUT CLOSING!"
+STR_322_CHOOSE_THE_TRUCK,,,,,,,CHOOSE CART!
+STR_322_PRODUCTS_LIST,,,,,,,SHOPPING LIST
+STR_322_LEVEL,,,,,,,Level
+STR_322_WEIGHT,,,,,,,Weight:
+STR_322_TEMPERATURE,,,,,,,Temperature:
+STR_322_GO_BUY_BUTTON,,,,,,,GO SHOPPING!
+STR_322_DEGREES,,,,,,,degrees
+STR_323_ENTRANCE,,,,,,,"Agent P, you fell into Doof's trap, but I have worked out a brilliant plan to deactivate the super-mechanical-hand-inator."
+STR_323_RIGHT_ACTION,,,,,,,Excellent.
+STR_323_BAD_ACTION,,,,,,,That won't work. Try again!
+STR_323_GOT_QUEST_1,,,,,,,Agent P is trained in the secret art of tail launching. Select the appropiate projectile and launch it.
+STR_323_QUEST_1_ALL_ITEMS,,,,,,,Nailed it! Let's move on.
+STR_323_QUEST_1_COMPLETE,,,,,,,"Careful, Agent P."
+STR_323_GOT_QUEST_2,,,,,,,"Tail launching tested, now we have to break the glass. You'll need a projectile with better penetration for this."
+STR_323_QUEST_2_ALL_ITEMS,,,,,,,"Nailed it, let's launch the next one!"
+STR_323_QUEST_2_COMPLETE,,,,,,,Bulletproof glass! Go to Plan B.
+STR_323_GOT_QUEST_3,,,,,,,Headquarters scanned Doofenschmirtz's laboratory and we discovered an emergency control panel. Your task is to activate it.
+STR_323_QUEST_3_ALL_ITEMS,,,,,,,Use the lever to turn on the steam hammer.
+STR_323_QUEST_3_COMPLETE,,,,,,,"Well, you'll have to tinker with the settings..."
+STR_323_GOT_QUEST_4,,,,,,,Headquarters suggests to hit it with the hammer! Your task is to activate the laser.
+STR_323_QUEST_4_ALL_ITEMS,,,,,,,Now you have to turn on the laser.
+STR_323_QUEST_4_COMPLETE,,,,,,,Update: hammer positioned sucessfully!
+STR_323_GOT_QUEST_5,,,,,,,"Hold on, Agent P. We're in the final stage of Plan B. The last part should be easy - energize Doofenschmirtz's machine to activate the hammer."
+STR_323_QUEST_5_ALL_ITEMS,,,,,,,"All the items are in place. Your task is to connstruct a 1:799 scale fighter plane. And no, don't ask where we got that number."
+STR_323_QUEST_5_PLANE_MADE,,,,,,,The plane is ready for takeoff.
+STR_323_QUEST_5_COMPLETE,,,,,,,"Flight successful. Target hit, pilot ejected."
+STR_323_BUTTON_ONCLICK,,,,,,,This button deactivates the mechanical hands that are grabbing Agent P. You have to push it.
+STR_323_DOCTOR_ONCLICK,,,,,,,"You cannot escale, Perry the Platypus! You have lost!"
+STR_323_ANY_ACTIONS_01,,,,,,,My brilliant magnet-inator will activate soon!
+STR_323_ANY_ACTIONS_02,,,,,,,It's hard to be an evil scientist... Nobody understands you...
+STR_323_ANY_ACTIONS_03,,,,,,,The generator needs twenty thousand volts. My power bills are horrible.
+STR_323_ANY_ACTIONS_04,,,,,,,I made a brilliant discovery... two minuses make a plus! If you rotate one by 90 degrees and put it on top of the other.
+STR_323_FUFEL_HELP_01,,,,,,,My brilliant magnet-inator will activate soon!
+STR_323_FUFEL_HELP_02,,,,,,,It's hard to be an evil scientist... Nobody understands you...
+STR_323_FUFEL_HELP_03,,,,,,,The generator needs twenty thousand volts. My power bills are horrible.
+STR_323_FUFEL_HELP_04,,,,,,,I made a brilliant discovery... two minuses make a plus! If you rotate one by 90 degrees and put it on top of the other.
+STR_323_HELP_01,,,,,,,Collect the items on the list.
+STR_323_HELP_02,,,,,,,"To use an object, click on it with the mouse. Then click on the place where you want to use it."
+STR_323_HELP_03,,,,,,,This is a place where you can use items from your inventory.
+STR_323_HELP_04,,,,,,,"Some items can be combined. To do this, click on one item and then the one you want to combine it with."
+STR_323_INV_PROPELLER,,,,,,,Propeller
+STR_323_INV_FEMALE_SCREW,,,,,,,Nut
+STR_323_INV_NAIL,,,,,,,Nail
+STR_323_INV_PLANE_BODY,,,,,,,Fuselage
+STR_323_INV_CRYSTAL,,,,,,,Crystal
+STR_323_INV_WING,,,,,,,Wing
+STR_323_INV_LIGHT_BULB,,,,,,,Light bulb
+STR_323_INV_HUMMER,,,,,,,Hammer
+STR_323_INV_PLANE_PARTS,,,,,,,Disassembled airplane
+STR_323_INV_PLANE_PARTS_1,,,,,,,Disassembled airplane
+STR_323_INV_REAGENTS,,,,,,,Reagents
+STR_323_INV_LEVER,,,,,,,Lever
+STR_323_INV_PLANE,,,,,,,Airplane
+STR_323_INV_STEEL_BALL,,,,,,,Steel ball
+STR_323_INV_SUPER_GLUE,,,,,,,Super glue
+STR_323_INV_SCREW,,,,,,,Screw
+STR_323_INV_TEST_TUBE,,,,,,,Test tube
+STR_323_INV_REAGENT,,,,,,,Reagent
+STR_323_OPEN_BRACKET,,,,,,,(
+STR_323_CLOSE_BRACKET,,,,,,,pcs. )
+STR_323_BATTARY,,,,,,,Battery
+STR_323_FAN,,,,,,,Fan
+STR_323_INSULATING_TAPE,,,,,,,Electrical tape
+STR_323_SPANNER,,,,,,,Wrench
+STR_323_READING_LAMP,,,,,,,Lamp
+STR_323_LAMP,,,,,,,Fluorescent tube
+STR_323_HUMMER_2,,,,,,,Hammer
+STR_323_WIRES,,,,,,,Tangle of wires
+STR_323_TURN_SCREW,,,,,,,Screwdriver
+STR_323_GLASSES,,,,,,,Glasses
+STR_323_PIN,,,,,,,Pin
+STR_323_SPRING,,,,,,,Spring
+STR_323_WRENCH,,,,,,,Adjustable wrench
+STR_323_STAPLER,,,,,,,Stapler
+STR_323_QUEST_5,,,,,,,Close the power plant
+STR_323_QUEST_4,,,,,,,Mechanical hammer
+STR_323_QUEST_3,,,,,,,Break the glass
+STR_323_QUEST_2,,,,,,,Activate the remote control
+STR_323_QUEST_1,,,,,,,Try tail launching
+STR_323_HINT_TEXT,,,,,,,SUBJECT DETECTED
+STR_323_PERRY,,,,,,,PERRY
+STR_323_LASER,,,,,,,LASER
+STR_323_SCANING,,,,,,,SCANNING...
+STR_323_CONTROL_PANEL,,,,,,,Panel
+STR_323_INV_COMBINE,,,,,,,Combine items to create the desired object
+STR_323_INV_TUBE_EMPTY,,,,,,,"When the tube is empty, the laser won't be able to fire"
+STR_332_PLACES_OK,,,,,,,Plenty of space.
+STR_332_PLACES_ONE,,,,,,,"Plenty of space, with one seat remaining."
+STR_332_PLACES_LESS,,,,,,,Not enough space.
+STR_332_PLACES_MORE,,,,,,,Too many empty seats left.
+STR_332_ALL_TYPES_01,,,,,,,Let's look at the passengers...
+STR_332_ALL_TYPES_02,,,,,,,You need to check the passengers...
+STR_332_ALL_TYPES_03,,,,,,,"Come on, let's check the passengers and move on."
+STR_332_ENTRANCE,,,,,,,Rollercoaster management requires knowledge of arithmetic. We need to correctly calculate the passengers. I'm counting on you.
+STR_332_TYPE_1_PART_1_1,,,,,,,One boy wants to ride and...
+STR_332_TYPE_1_PART_1_2,,,,,,,Two boys came to ride and...
+STR_332_TYPE_1_PART_1_3,,,,,,,This rollercoaster ride is a dream for three boys and...
+STR_332_TYPE_1_PART_1_4,,,,,,,Four boys want to ride and...
+STR_332_TYPE_1_PART_1_5,,,,,,,Five boys came to ride and...
+STR_332_TYPE_1_PART_1_6,,,,,,,This rollercoaster ride is a dream for six boys and...
+STR_332_TYPE_1_PART_1_7,,,,,,,Seven boys want to ride and...
+STR_332_TYPE_1_PART_1_8,,,,,,,Eight boys want to ride and...
+STR_332_TYPE_1_PART_1_9,,,,,,,This rollercoaster ride is a dream for nine boys and...
+STR_332_TYPE_1_PART_2_1,,,,,,,1 girl.
+STR_332_TYPE_1_PART_2_2,,,,,,,2 girls.
+STR_332_TYPE_1_PART_2_3,,,,,,,3 girls.
+STR_332_TYPE_1_PART_2_4,,,,,,,4 girls.
+STR_332_TYPE_1_PART_2_5,,,,,,,5 girls.
+STR_332_TYPE_1_PART_2_6,,,,,,,6 girls.
+STR_332_TYPE_1_PART_2_7,,,,,,,7 girls.
+STR_332_TYPE_1_PART_2_8,,,,,,,8 girls.
+STR_332_TYPE_1_PART_2_9,,,,,,,9 girls.
+STR_332_TYPE_1_PART_3_01,,,,,,,How many in total?
+STR_332_TYPE_1_PART_3_02,,,,,,,"So, how many in total?"
+STR_332_TYPE_1_PART_3_03,,,,,,,So how many is that in total?
+STR_332_TYPE_2_PART_1_1,,,,,,,It seems that we had 10 passengers on board...
+STR_332_TYPE_2_PART_1_2,,,,,,,"I have it all written down, there were 9 passengers..."
+STR_332_TYPE_2_PART_1_3,,,,,,,It seems that we had 8 passengers on board...
+STR_332_TYPE_2_PART_1_4,,,,,,,"Wait, wait, there were 7 passengers on board!"
+STR_332_TYPE_2_PART_1_5,,,,,,,"I have it all written down, there were 6 passengers..."
+STR_332_TYPE_2_PART_1_6,,,,,,,It seems that we had 5 passengers on board...
+STR_332_TYPE_2_PART_1_7,,,,,,,"Wait, wait, there were 4 passengers on board!"
+STR_332_TYPE_2_PART_1_8,,,,,,,"I have it all written down, there were 3 passengers..."
+STR_332_TYPE_2_PART_1_9,,,,,,,It seems that we had 2 passengers on board...
+STR_332_TYPE_2_PART_2_1,,,,,,,8 girls were found.
+STR_332_TYPE_2_PART_2_2,,,,,,,7 boys were found.
+STR_332_TYPE_2_PART_2_3,,,,,,,6 girls were found.
+STR_332_TYPE_2_PART_2_4,,,,,,,5 boys were found.
+STR_332_TYPE_2_PART_2_5,,,,,,,4 girls were found.
+STR_332_TYPE_2_PART_2_6,,,,,,,3 boys were found.
+STR_332_TYPE_2_PART_2_7,,,,,,,2 girls were found.
+STR_332_TYPE_2_PART_2_8,,,,,,,1 boy was found.
+STR_332_TYPE_2_PART_3_1_01,,,,,,,How many girls went missing?
+STR_332_TYPE_2_PART_3_1_02,,,,,,,How many girls were lost?
+STR_332_TYPE_2_PART_3_2_01,,,,,,,How many boys went missing?
+STR_332_TYPE_2_PART_3_2_02,,,,,,,How many boys were lost?
+STR_332_TYPE_3_PART_1,,,,,,,It seems that we lost someone on the way.
+STR_332_TYPE_3_PART_2_1,,,,,,,One carriage is empty. How many passengers are missing?
+STR_332_TYPE_3_PART_2_2,,,,,,,Two carriages are empty. How many passengers are missing?
+STR_332_TYPE_3_PART_2_3,,,,,,,Three carriages are empty. How many passengers are missing?
+STR_332_TYPE_3_PART_2_4,,,,,,,Four carriages are empty. How many passengers are missing?
+STR_332_TYPE_4_PART_1,,,,,,,I think we lost a carriage somewhere...
+STR_332_TYPE_4_PART_2_1,,,,,,,Not enough space for 1 boy and...
+STR_332_TYPE_4_PART_2_2,,,,,,,Not enough space for 2 boys and...
+STR_332_TYPE_4_PART_2_3,,,,,,,Not enough space for 3 boys and...
+STR_332_TYPE_4_PART_2_4,,,,,,,Not enough space for 4 boys and...
+STR_332_TYPE_4_PART_2_5,,,,,,,Not enough space for 5 boys and...
+STR_332_TYPE_4_PART_2_6,,,,,,,Not enough space for 6 boys and...
+STR_332_TYPE_4_PART_2_7,,,,,,,Not enough space for 7 boys and...
+STR_332_TYPE_4_PART_2_8,,,,,,,Not enough space for 8 boys and...
+STR_332_TYPE_4_PART_2_9,,,,,,,Not enough space for 9 boys and...
+STR_332_TYPE_4_PART_3_1,,,,,,,One girl.
+STR_332_TYPE_4_PART_3_2,,,,,,,Two girls.
+STR_332_TYPE_4_PART_3_3,,,,,,,Three girls.
+STR_332_TYPE_4_PART_3_4,,,,,,,Four girls.
+STR_332_TYPE_4_PART_3_5,,,,,,,Five girls.
+STR_332_TYPE_4_PART_3_6,,,,,,,Six girls.
+STR_332_TYPE_4_PART_3_7,,,,,,,Seven girls.
+STR_332_TYPE_4_PART_3_8,,,,,,,Eight girls.
+STR_332_TYPE_4_PART_3_9,,,,,,,Nine girls.
+STR_332_TYPE_4_PART_4_01,,,,,,,So how many carriages do you need?
+STR_332_TYPE_4_PART_4_02,,,,,,,How many carriages are needed?
+STR_332_ANSWER_ONE,,,,,,,One.
+STR_332_ANSWER_TWO,,,,,,,Two.
+STR_332_ANSWER_THREE,,,,,,,Three.
+STR_332_ANSWER_FOUR,,,,,,,Four.
+STR_332_ANSWER_FIVE,,,,,,,Five.
+STR_332_ANSWER_SIX,,,,,,,Six.
+STR_332_ANSWER_SEVEN,,,,,,,Seven.
+STR_332_ANSWER_EIGHT,,,,,,,Eight.
+STR_332_ANSWER_NINE,,,,,,,Nine.
+STR_332_ANSWER_TEN,,,,,,,Ten.
+STR_332_BAD_ANSWER_01,,,,,,,Something's wrong here...
+STR_332_BAD_ANSWER_02,,,,,,,That's not right...
+STR_332_BAD_ANSWER_03,,,,,,,Let's figure it out.
+STR_332_RIGHT_ANSWER_01,,,,,,,Excellent.
+STR_332_RIGHT_ANSWER_02,,,,,,,Correct.
+STR_332_RIGHT_ANSWER_03,,,,,,,"Well, are we going?!"
+STR_332_HELP_01,,,,,,,Use the remote control to answer.
+STR_332_HELP_02,,,,,,,Ask me if you want me to repeat the task.
+STR_332_TYPE_1_QUEST_1,,,,,,,How many children are there? (5 + 3)
+STR_332_TYPE_1_ANSWER_1,,,,,,,8
+STR_332_TYPE_1_QUEST_2,,,,,,,How many children are there? (4 + 4)
+STR_332_TYPE_1_ANSWER_2,,,,,,,8
+STR_332_TYPE_1_ANSWER_3,,,,,,,8
+STR_332_TYPE_1_QUEST_4,,,,,,,How many children are there? (2 + 4)
+STR_332_TYPE_1_ANSWER_4,,,,,,,6
+STR_332_TYPE_1_QUEST_5,,,,,,,How many children are there? (2 + 2)
+STR_332_TYPE_1_ANSWER_5,,,,,,,4
+STR_332_TYPE_1_QUEST_6,,,,,,,How many children are there? (1 + 1)
+STR_332_TYPE_1_ANSWER_6,,,,,,,2
+STR_332_TYPE_1_QUEST_7,,,,,,,How many children are there? (6 + 2)
+STR_332_TYPE_1_ANSWER_7,,,,,,,8
+STR_332_TYPE_1_QUEST_8,,,,,,,How many children are there? (2 + 3)
+STR_332_TYPE_1_ANSWER_8,,,,,,,5
+STR_332_TYPE_1_QUEST_9,,,,,,,How many children are there? (3 + 1)
+STR_332_TYPE_1_ANSWER_9,,,,,,,4
+STR_332_TYPE_1_QUEST_10,,,,,,,How many children are there?
+STR_332_TYPE_1_ANSWER_10,,,,,,,3
+STR_332_TYPE_2_QUEST_1,,,,,,,How many boys are missing? ( 4 + ? = 8)
+STR_332_TYPE_2_ANSWER_1,,,,,,,4
+STR_332_TYPE_2_QUEST_2,,,,,,,How many boys are missing? (2 + ? = 7)
+STR_332_TYPE_2_ANSWER_2,,,,,,,5
+STR_332_TYPE_2_QUEST_3,,,,,,,How many boys are missing? (3 + ? = 8)
+STR_332_TYPE_2_ANSWER_3,,,,,,,5
+STR_332_TYPE_2_QUEST_4,,,,,,,How many girls are missing? (5 + ? = 7)
+STR_332_TYPE_2_ANSWER_4,,,,,,,2
+STR_332_TYPE_2_QUEST_5,,,,,,,How many boys are missing? (4 + ? = 6)
+STR_332_TYPE_2_ANSWER_5,,,,,,,2
+STR_332_TYPE_2_QUEST_6,,,,,,,How many girls are missing? (3 + ? = 4)
+STR_332_TYPE_2_ANSWER_6,,,,,,,1
+STR_332_TYPE_2_QUEST_7,,,,,,,How many girls are missing? (1 + ? = 2)
+STR_332_TYPE_2_ANSWER_7,,,,,,,1
+STR_332_TYPE_2_QUEST_8,,,,,,,How many boys are missing? (2 + ? = 4)
+STR_332_TYPE_2_ANSWER_8,,,,,,,2
+STR_332_TYPE_2_QUEST_9,,,,,,,How many girls are missing? (1 + ? = 4)
+STR_332_TYPE_2_ANSWER_9,,,,,,,3
+STR_332_TYPE_2_QUEST_10,,,,,,,How many girls are missing? (1 + ? = 3)
+STR_332_TYPE_2_ANSWER_10,,,,,,,2
+STR_332_TYPE_3_QUEST_1,,,,,,,How many children got lost along the way?
+STR_332_TYPE_3_ANSWER_1,,,,,,,2
+STR_332_TYPE_3_QUEST_2,,,,,,,How many children got lost along the way?
+STR_332_TYPE_3_ANSWER_2,,,,,,,4
+STR_332_TYPE_3_QUEST_3,,,,,,,How many children got lost along the way?
+STR_332_TYPE_3_ANSWER_3,,,,,,,6
+STR_332_TYPE_3_QUEST_4,,,,,,,How many children got lost along the way?
+STR_332_TYPE_3_ANSWER_4,,,,,,,8
+STR_332_TYPE_4_QUEST_1,,,,,,,How many cars do we need?
+STR_332_TYPE_4_ANSWER_1,,,,,,,1
+STR_332_TYPE_4_ANSWER_2,,,,,,,2
+STR_332_TYPE_4_ANSWER_3,,,,,,,3
+STR_332_TYPE_4_ANSWER_4,,,,,,,3
+STR_332_TYPE_4_ANSWER_5,,,,,,,4
+STR_332_TYPE_4_ANSWER_6,,,,,,,4
+STR_332_TYPE_4_ANSWER_7,,,,,,,2
+STR_332_TYPE_4_ANSWER_8,,,,,,,4
+STR_332_TYPE_4_ANSWER_9,,,,,,,2
+STR_332_TYPE_4_ANSWER_10,,,,,,,3
+STR_332_CALC_WIN,,,,,,,Correct!
+STR_332_CALC_LOSE,,,,,,,Wrong
+STR_SC334_START_TEXT1,,,,,,,3... 2... 1...
+STR_SC334_START_TEXT2,,,,,,,Go!
+STR_SC334_FINISH_TEXT1,,,,,,,Level complete!
+STR_SC334_FINISH_TEXT2,,,,,,,Here we are? Wasn't that cool?!
+STR_SC334_LEVEL,,,,,,,Level
+STR_SC334_START_LEVEL1,,,,,,,Let's go!
+STR_SC334_START_LEVEL2,,,,,,,Come on! Fasten your seatbelt.
+STR_SC334_LONG_FLAY,,,,,,,Wow!
+STR_SC334_LITLE_SPEED,,,,,,,We're barely moving!
+STR_SC334_FAST_SPEED,,,,,,,Brake! Brake!
+STR_SC334_WIN,,,,,,,Here we are? Wasn't that cool?!
+STR_SC334_LUSE1,,,,,,,Oops! Emergency!
+STR_SC334_LUSE2,,,,,,,It seems that we fell.
+STR_SC334_LUSE3,,,,,,,Oops!
+STR_SC334_WIN_LAST_LEVEL,,,,,,,That was a great ride!
+STR_SC334_HELP1,,,,,,,Use the arrow keys to accelerate and slow down.
+STR_SC334_HELP2,,,,,,,Be careful in the corners!
+STR_SC334_HELP3,,,,,,,Follow the navigation laser. It will help you avoid surprises.
+STR_SC334_PHINEAS_WOW,,,,,,,Hehehe! Ooh! Hooray!
+STR_SC334_FERB_WOW,,,,,,,Oh! Oh! Woo-hoo!
+STR_340_WEIGHT,,,,,,,Weight
+STR_340_WHIZBANG,,,,,,,Grenades
+STR_340_LAZER,,,,,,,Charge laser
+STR_340_SPEED,,,,,,,Acceleration
+STR_340_WHIZBANG_MESS_1,,,,,,,Grenade explosion destroys metal
+STR_340_WHIZBANG_MESS_2,,,,,,,"on the magnet, reducing the weight of the helicopter"
+STR_340_START_MESS,,,,,,,3 ... 2 ... 1 ... Start!
+STR_340_WIN_MESS,,,,,,,MISSION COMPLETE
+STR_340_FAIL_MESS,,,,,,,MISSION FAILED
+STR_340_PASSED,,,,,,,Distance traveled:
+STR_340_REMAIN,,,,,,,Remaining
+STR_340_HELP_WATCH_WEIGHT,,,,,,,"Watch the weight! If the magnet attracts too much metal, the helicopter will fall."
+STR_340_START,,,,,,,"Agent P, you got into the flying foil area. Take the helicopter away from the danger zone. Remember, the more metal adheres to the magnet, the slower it will fly."
+STR_340_NEW_SPEED,,,,,,,"Heavier load, the speed of the helicopter has decreased."
+STR_340_MAKE_BANG_WHEN_HEAVY,,,,,,,"Agent P, use the grenade to drop excess metal from the helicopter."
+STR_340_WIN,,,,,,,"Congratulations, Agent P! You completed the task."
+STR_340_FAIL,,,,,,,The helicopter crashed! Call an ambulance!
+STR_340_HELP_MOUSE,,,,,,,Control the helicopter with your mouse.
+STR_340_HELP_FIRE,,,,,,,The left mouse button fires the laser.
+STR_340_HELP_BANG,,,,,,,The grenade destroys metal attached to the magnet.
+STR_SLIDERS_SLIDE,,,,,,,Slide 
+STR_SLIDERS_LENGTH,,,,,,,length
+STR_SLIDERS_HEIGHT,,,,,,,height
+STR_SLIDERS_WIDTH,,,,,,,width
+STR_SLIDERS_LENGTH_8,,,,,,,8 cm long
+STR_SLIDERS_HEIGHT_10,,,,,,,10 cm tall
+STR_SLIDERS_KG_1,,,,,,,1 kg
+STR_SLIDERS_HEAT,,,,,,,heat
+STR_SLIDERS_COLD,,,,,,,cold
+STR_SLIDERS_SUMMAND,,,,,,,ADDEND
+STR_SLIDERS_AMOUNT,,,,,,,SUM
+STR_SLIDERS_APPLES,,,,,,,apples
+STR_SLIDERS_PEARS,,,,,,,pears
+STR_SLIDERS_FRUIT,,,,,,,fruit
+STR_SLIDERS_MINUEND,,,,,,,MINUEND
+STR_SLIDERS_SUBTRAHEND,,,,,,,SUBTRAHEND
+STR_SLIDERS_DIFFERENCE,,,,,,,DIFFERENCE
+STR_SLIDERS_CARS,,,,,,,cars
+STR_SLIDERS_STOP,,,,,,,stop
+STR_SLIDERS_PRACTICE,,,,,,,PRACTICE
+STR_SLIDERS_FERB_START,,,,,,,Starting a new theory course. All information is strictly confidential.
+STR_SLIDERS_FERB_END,,,,,,,Theory course complete.
+STR_SLIDERS_1_01_PHINEAS_1,,,,,,,"Hey, Ferb, should we start building the world's coolest rollercoaster?"
+STR_SLIDERS_1_01_FERB_1,,,,,,,"You know me, I'm a man of action. But we need a scientific approach."
+STR_SLIDERS_1_01_PHINEAS_2,,,,,,,"Of course, a scientific approach is our speciality!"
+STR_SLIDERS_1_02_FERB_1,,,,,,,"We have to use parts of different sizes, so that the track will turn out really cool."
+STR_SLIDERS_1_02_PHINEAS_1,,,,,,,"Definitely! Our coaster will be the tallest, longest, and coolest in the world! Hey, what do you mean by ""size""?"
+STR_SLIDERS_1_02_FERB_2,,,,,,,"Here, I'll explain."
+STR_SLIDERS_1_03_FERB_1,,,,,,,Everything has a length.
+STR_SLIDERS_1_03_PHINEAS_1,,,,,,,Look! That top box is twice as lnog as Perry! Great measurement tool!
+STR_SLIDERS_1_03_FERB_2,,,,,,,An object may be shorter or longer than others.
+STR_SLIDERS_1_04_FERB_1,,,,,,,Everything has a height.
+STR_SLIDERS_1_04_PHINEAS_1,,,,,,,"Great! If I stood on your shoulders, we would be twice as high!"
+STR_SLIDERS_1_04_FERB_2,,,,,,,"An object may be lower, higher, or the same height as another."
+STR_SLIDERS_1_05_FERB_1,,,,,,,Everything has a width.
+STR_SLIDERS_1_05_PHINEAS_1,,,,,,,"I know width is also called thickness. For example, a thick book."
+STR_SLIDERS_1_05_FERB_2,,,,,,,An object may be narrower or wider or the same width as another object.
+STR_SLIDERS_1_06_FERB_1,,,,,,,"The length, width, and height define the dimensions of an object."
+STR_SLIDERS_1_06_PHINEAS_1,,,,,,,All cars of the same model have the same dimensions and are therefore the same size.
+STR_SLIDERS_1_06_FERB_2,,,,,,,"An object may be larger, smaller, or the same size as another."
+STR_SLIDERS_1_07_FERB_1,,,,,,,And the platypus is the only way to measure the dimensions of objects?
+STR_SLIDERS_1_07_PHINEAS_1,,,,,,,"Of course not! Length, width, and height can be measured with a ruler, which is divided up into pieces called centimeters."
+STR_SLIDERS_1_07_PHINEAS_2,,,,,,,You can put the ruler next to the subject and see how many centimeters fit in it.
+STR_SLIDERS_1_08_PHINEAS_1,,,,,,,"Ferb, you messed up the drawing again! The trash is already full!"
+STR_SLIDERS_1_08_FERB_1,,,,,,,This is because it has a small volume...
+STR_SLIDERS_1_08_CANDACE_1,,,,,,,Mom said that I'm in charge! And I have my eyes on you...
+STR_SLIDERS_1_08_PHINEAS_2,,,,,,,"Sure thing, sis..."
+STR_SLIDERS_1_08_PHINEAS_3,,,,,,,"And what is ""volume""?"
+STR_SLIDERS_1_08_FERB_2,,,,,,,Let's try to understand.
+STR_SLIDERS_1_09_FERB_1,,,,,,,"The volume of one object may be smaller, larger, or the same as another."
+STR_SLIDERS_1_09_FERB_2,,,,,,,"Volume is the space occupied by an object. The longer, taller, and wider the object is, the greater its volume, and the more space it takes up."
+STR_SLIDERS_1_10_FERB_1,,,,,,,"To measure the volume of these two boxes, we can put same-sized cubes in them."
+STR_SLIDERS_1_10_FERB_2,,,,,,,"The first box fit eight blocks, and the second only fit six."
+STR_SLIDERS_1_10_PHINEAS_1,,,,,,,That means the volume of the first box is greater than that of the second!
+STR_SLIDERS_1_11_PHINEAS_1,,,,,,,And what if we don't have those cubes?
+STR_SLIDERS_1_11_FERB_1,,,,,,,"Volume can be measured with water. Pour water into the tank and the bucket. The bucket fits less water than the tank, so its volume is less."
+STR_SLIDERS_1_12_PHINEAS_1,,,,,,,"I hope that all made sense, now you can help us build a rollercoaster!"
+STR_SLIDERS_1_12_FERB_1,,,,,,,"But just in case, let's do a quick test!"
+STR_SLIDERS_2_01_CANDACE_1,,,,,,,Mom! Phineas and Ferb built a rollercoaster! Look!
+STR_SLIDERS_2_02_BOYLEFT_1,,,,,,,Wow! Phineas and Ferb built a rollercoaster!
+STR_SLIDERS_2_02_BOYRIGHT_1,,,,,,,Let's take the flyer! Maybe we'll get a discount!
+STR_SLIDERS_2_03_CANDACE_1,,,,,,,I don't understand! There was a poster just a moment ago!
+STR_SLIDERS_2_03_MAMA_1,,,,,,,Stop dreaming and help me with the cart... you have no idea how much it weighs!
+STR_SLIDERS_2_03_CANDACE_2,,,,,,,"Hmm... what is ""weight""?"
+STR_SLIDERS_2_03_MAMA_2,,,,,,,"Candace! You learned about it in school two years ago, you should know!"
+STR_SLIDERS_2_03_CANDACE_3,,,,,,,I guess I forgot. Can you remind me?
+STR_SLIDERS_2_04_MAMA_1,,,,,,,Everything has a weight.
+STR_SLIDERS_2_04_CANDACE_1,,,,,,,Right! A small apple is heavier than a large balloon!
+STR_SLIDERS_2_04_MAMA_2,,,,,,,An object may be heavier or lighter than another.
+STR_SLIDERS_2_05_MAMA_1,,,,,,,You can compare the weight of two objects by holding them in your hands.
+STR_SLIDERS_2_05_CANDACE_1,,,,,,,Yeah! This watermelon is much heavier than an apple.
+STR_SLIDERS_2_05_MAMA_2,,,,,,,The heavier object will move your hand down harder.
+STR_SLIDERS_2_06_MAMA_1,,,,,,,We determine the weight of an object with a scale.
+STR_SLIDERS_2_06_CANDACE_1,,,,,,,The needle shows how heavy the object is!
+STR_SLIDERS_2_06_MAMA_2,,,,,,,Heavier objects will press harder on the scale.
+STR_SLIDERS_2_07_MAMA_1,,,,,,,"The scale measures the weight of the object in a sepcific unit, kilograms."
+STR_SLIDERS_2_07_CANDACE_1,,,,,,,I got it! This watermelon weighs 8 kg.
+STR_SLIDERS_2_07_MAMA_2,,,,,,,"The dial is divided into equal segments, and if you put an object that weighs one kilogram on the scale, the needle will move exactly one segment."
+STR_SLIDERS_2_08_MAMA_1,,,,,,,Objects of equal weight balance each other.
+STR_SLIDERS_2_08_CANDACE_1,,,,,,,Apparently one liter of water weighs one kilogram.
+STR_SLIDERS_2_08_MAMA_2,,,,,,,"Exactly. They press on the scales the same amount, so they balance each other out."
+STR_SLIDERS_2_09_MAMA_1,,,,,,,Combining items also adds their weight.
+STR_SLIDERS_2_09_CANDACE_1,,,,,,,"Therefore, if the shopping cart has too many items, it will be hard to push it!"
+STR_SLIDERS_2_10_MAMA_1,,,,,,,Everything has a temperature.
+STR_SLIDERS_2_10_CANDACE_1,,,,,,,Some objects are so hot that you can't touch them with your bare hands or you'll get burned.
+STR_SLIDERS_2_10_MAMA_2,,,,,,,An object may be warmer or colder or have the same temperature as others.
+STR_SLIDERS_2_11_MAMA_1,,,,,,,The temperature of an object may change if it is hot or cold.
+STR_SLIDERS_2_11_CANDACE_1,,,,,,,"Yes, yes! If you put ice cream in a bag with hot donuts, it will heat up and melt!"
+STR_SLIDERS_2_11_MAMA_2,,,,,,,"And if you put a hot donuts into a box of ice, it will quickly freeze."
+STR_SLIDERS_2_12_MAMA_1,,,,,,,We can measure temperature using a thermometer.
+STR_SLIDERS_2_12_CANDACE_1,,,,,,,"When the temperature of the object increases, that means that it's warmer. When it falls, it's colder."
+STR_SLIDERS_2_12_MAMA_2,,,,,,,"If the bars in the thermometer go up, it means that the temperature is increasing. If they do down, it's decreasing"
+STR_SLIDERS_2_13_MAMA_1,,,,,,,The temperature is measured in degrees. It may be below or above zero.
+STR_SLIDERS_2_13_CANDACE_1,,,,,,,Degrees? That sounds familiar... oh yeah! Ninety degrees is a right angle!
+STR_SLIDERS_2_13_MAMA_2,,,,,,,"The thermometer scale is divided into equal segments, each of which is equal to one degree."
+STR_SLIDERS_2_14_CANDACE_1,,,,,,,Zero degrees is in the middle. And that means...
+STR_SLIDERS_2_14_MAMA_1,,,,,,,Water freezes at zero degrees.
+STR_SLIDERS_2_14_MAMA_2,,,,,,,"The freezing point of water is used as a point of reference when measureing temperature. It's a convient solution because water is everywhere on Earth. It's in people, plants, and animals."
+STR_SLIDERS_2_15_CANDACE_1,,,,,,,But I saw the poster with my own eyes!
+STR_SLIDERS_2_15_MAMA_1,,,,,,,"You should calm down a little... come on, let's go shopping, it's relaxing!"
+STR_SLIDERS_3_01_PHINEAS_1,,,,,,,Alright! Everything is ready! Time to start the coolest ride ever!
+STR_SLIDERS_3_01_FERB_1,,,,,,,Wait! First you have to count all the passengers and cars. Otherwise it won't work!
+STR_SLIDERS_3_01_PHINEAS_2,,,,,,,These calculations must be very accurate! The safety of the riders depends of them!
+STR_SLIDERS_3_01_FERB_2,,,,,,,First you need to repeat the theory. Just in case.
+STR_SLIDERS_3_02_FERB_1,,,,,,,Addition is a mathematical operation that combines two or more numbers into one.
+STR_SLIDERS_3_02_PHINEAS_1,,,,,,,"This operation is marked with a plus sign (+), which is placed between the two numbers being added."
+STR_SLIDERS_3_03_PHINEAS_1,,,,,,,The sum is written after the equal sign (=).
+STR_SLIDERS_3_03_FERB_1,,,,,,,The numbers that we add are called addends and the number that we get as the result is called the sum.
+STR_SLIDERS_3_04_PHINEAS_1,,,,,,,Addition is like putting things in a basket.
+STR_SLIDERS_3_04_FERB_1,,,,,,,Like fruit?
+STR_SLIDERS_3_04_PHINEAS_2,,,,,,,"Yes! If you put three apples and three pears in a basket, there will be six fruit."
+STR_SLIDERS_3_05_FERB_1,,,,,,,"If you add zero to any number, the sum is the same, that is, the number does not change."
+STR_SLIDERS_3_05_PHINEAS_1,,,,,,,"Of course, zero is nothing after all..."
+STR_SLIDERS_3_06_FERB_1,,,,,,,There's one more rule in addition: changing the order of the summands doesn't change the sum.
+STR_SLIDERS_3_06_PHINEAS_1,,,,,,,"I understand! When adding numbers, it doesn't matter which we add first."
+STR_SLIDERS_3_07_PHINEAS_1,,,,,,,"This is the opposite of adding! Instead of counting, we subtract."
+STR_SLIDERS_3_07_FERB_1,,,,,,,Subtraction is taking away from one number another number which is the same size or smaller.
+STR_SLIDERS_3_08_FERB_1,,,,,,,"The number we subtract from is the minuend, the number we subtract is the subtrahend, and the result is the difference."
+STR_SLIDERS_3_08_PHINEAS_1,,,,,,,Are you trying to mess with my head?
+STR_SLIDERS_3_08_FERB_2,,,,,,,"No, it's easy! Minuend is the nubmer which becomes smaller. Subtrahend is the part that's removed from the minuend. And the difference is what's left!"
+STR_SLIDERS_3_09_PHINEAS_1,,,,,,,And what if we subtract three apples from three cars?
+STR_SLIDERS_3_09_FERB_1,,,,,,,Nothing. We can only subtract the same kinds of things from each other.
+STR_SLIDERS_3_10_FERB_1,,,,,,,"If you subtract a number from itself, you get zero."
+STR_SLIDERS_3_10_PHINEAS_1,,,,,,,"Yeah... if I have three apples and eat them all, then I'll have nothing left."
+STR_SLIDERS_3_11_FERB_1,,,,,,,"And if we subtract zero from any number, it stays the same."
+STR_SLIDERS_3_11_PHINEAS_1,,,,,,,"You can subtract zero? Sero is nothing, after all."
+STR_SLIDERS_3_11_FERB_2,,,,,,,"Exactly! If you subtract zero, nothing will change!"
+STR_SLIDERS_3_12_FERB_1,,,,,,,"Alright, now everything is ready for a crazy adventure!"
+STR_SLIDERS_3_12_PHINEAS_1,,,,,,,All aboard! Let's go!!!
+STR_CREDITS_DIS_001,,,,,,,Published by:
+STR_CREDITS_DIS_002,,,,,,,#VALUE!
+STR_CREDITS_DIS_003,,,,,,,#VALUE!
+STR_CREDITS_DIS_004,,,,,,,"Director, Disney Interactive Russia"
+STR_CREDITS_DIS_005,,,,,,,ELENA GUSHCHINA
+STR_CREDITS_DIS_006,,,,,,,Producer
+STR_CREDITS_DIS_007,,,,,,,ANTON KHLEBNIKOV
+STR_CREDITS_DIS_008,,,,,,,Technology Director
+STR_CREDITS_DIS_009,,,,,,,DANNY KOO
+STR_CREDITS_DIS_010,,,,,,,Sr. Staff Software Engineer
+STR_CREDITS_DIS_011,,,,,,,TAD SAKASHITA
+STR_CREDITS_DIS_012,,,,,,,LOCALIZATION
+STR_CREDITS_DIS_013,,,,,,,"Director, Production Operations"
+STR_CREDITS_DIS_014,,,,,,,FLAVIA TIMIANI-DEAN
+STR_CREDITS_DIS_015,,,,,,,Senior Localization Manager
+STR_CREDITS_DIS_016,,,,,,,SONIA SOUTO
+STR_CREDITS_DIS_017,,,,,,,Localization Producer
+STR_CREDITS_DIS_018,,,,,,,MONICA COSTOYA
+STR_CREDITS_DIS_019,,,,,,,MARKETING
+STR_CREDITS_DIS_020,,,,,,,"Sr. Manager, Global Brand Marketing"
+STR_CREDITS_DIS_021,,,,,,,JANICE BALGEMINO
+STR_CREDITS_DIS_022,,,,,,,Global Brand Manager
+STR_CREDITS_DIS_023,,,,,,,KRISTIE CRAWFORD
+STR_CREDITS_DIS_024,,,,,,,"Marketing Manager, Russia"
+STR_CREDITS_DIS_025,,,,,,,ANASTASIA USIKOV
+STR_CREDITS_DIS_026,,,,,,,QUALITY ASSURANCE
+STR_CREDITS_DIS_027,,,,,,,Quality Assurance Project Lead
+STR_CREDITS_DIS_028,,,,,,,RICK GUSA
+STR_CREDITS_DIS_029,,,,,,,Quality Assurance Project Lead - Localization
+STR_CREDITS_DIS_030,,,,,,,IMRAN GÖYCHAYEV
+STR_CREDITS_DIS_031,,,,,,,Quality Assurance Tester
+STR_CREDITS_DIS_032,,,,,,,ANGELO FEDERIZO
+STR_CREDITS_DIS_033,,,,,,,Mastering Engineer
+STR_CREDITS_DIS_034,,,,,,,KASIM REHMAN
+STR_CREDITS_DIS_035,,,,,,,"Manager, Certification QA"
+STR_CREDITS_DIS_036,,,,,,,JASON FURLER
+STR_CREDITS_DIS_037,,,,,,,"Manager, Localization QA"
+STR_CREDITS_DIS_038,,,,,,,LUIGI PARDO
+STR_CREDITS_DIS_039,,,,,,,"Senior Manager, Quality Assurance Operations"
+STR_CREDITS_DIS_040,,,,,,,KEN EATON
+STR_CREDITS_DIS_041,,,,,,,"Director, Quality Assurance"
+STR_CREDITS_DIS_042,,,,,,,#VALUE!
+STR_CREDITS_DIS_043,,,,,,,"Tech Ops, Coordinator"
+STR_CREDITS_DIS_044,,,,,,,MARIO DONIS
+STR_CREDITS_DIS_045,,,,,,,"DISNEY CHARACTER VOICES, RUSSIA"
+STR_CREDITS_DIS_046,,,,,,,Creative Manager
+STR_CREDITS_DIS_047,,,,,,,SERGEI PASSAU
+STR_CREDITS_DIS_048,,,,,,,Featuring the Russian voice talents of:
+STR_CREDITS_DIS_049,,,,,,,DMITRY CHEREVATENKO
+STR_CREDITS_DIS_050,,,,,,,MAXIM GLEBOV
+STR_CREDITS_DIS_051,,,,,,,ALEXEI FATEYEV
+STR_CREDITS_DIS_052,,,,,,,MARIA PAVLOVA
+STR_CREDITS_DIS_053,,,,,,,ANASTASIA SOKOLOVA
+STR_CREDITS_DIS_054,,,,,,,ANASTASIA LAPIN
+STR_CREDITS_DIS_055,,,,,,,DMITRY KORYUKOV
+STR_CREDITS_DIS_056,,,,,,,DMITRY KOROLEV
+STR_CREDITS_DIS_057,,,,,,,Featuring the Czech voice talents of:
+STR_CREDITS_DIS_058,,,,,,,DAVID ŠTĚPÁN
+STR_CREDITS_DIS_059,,,,,,,VOJTĚCH ROHLÍČEK
+STR_CREDITS_DIS_060,,,,,,,KLÁRA ŠUMANOVÁ
+STR_CREDITS_DIS_061,,,,,,,LIBOR TERŠ
+STR_CREDITS_DIS_062,,,,,,,FILIP ŽENÍŠEK
+STR_CREDITS_DIS_063,,,,,,,Featuring the Polish voice talents of:
+STR_CREDITS_DIS_064,,,,,,,WIT APOSTOLAKIS
+STR_CREDITS_DIS_065,,,,,,,GRZEGORZ DROJEWSKI
+STR_CREDITS_DIS_066,,,,,,,AGNIESZKA KUNIKOWSKA
+STR_CREDITS_DIS_067,,,,,,,ZOFIA MODEJ
+STR_CREDITS_DIS_068,,,,,,,MATEUSZ NARLOCH
+STR_CREDITS_DIS_069,,,,,,,DARIUSZ ODIJA
+STR_CREDITS_DIS_070,,,,,,,WOJCIECH PASZKOWSKI
+STR_CREDITS_DIS_071,,,,,,,MONIKA PIKUŁA
+STR_CREDITS_DIS_072,,,,,,,MUSIC
+STR_CREDITS_DIS_073,,,,,,,Perry the Platypus Theme
+STR_CREDITS_DIS_074,,,,,,,WRITTEN BY DAN POVENMIRE AND JEFF 'SWAMPY' MARSH
+STR_CREDITS_DIS_075,,,,,,,"WONDERLAND MUSIC COMPANY, INC."
+STR_CREDITS_DIS_076,,,,,,,PREFORMED BY RANDY CRENSHAW
+STR_CREDITS_DIS_077,,,,,,,Special Thanks
+STR_CREDITS_DIS_078,,,,,,,The creators of Phineas and Ferb:
+STR_CREDITS_DIS_078A,,,,,,,DAN POVENMIRE AND JEFF 'SWAMPY' MARSH
+STR_CREDITS_DIS_079,,,,,,,CYNDI MCGARRAH
+STR_CREDITS_DIS_080,,,,,,,SANDY ABE
+STR_CREDITS_DIS_081,,,,,,,The Entire Phineas and Ferb team
+STR_CREDITS_DIS_082,,,,,,,The Disney Channel
+STR_CREDITS_DIS_083,,,,,,,BLAIR R. MEISENHEIMER
+STR_CREDITS_DIS_084,,,,,,,RHEALYN SICO
+STR_CREDITS_DIS_085,,,,,,,STEPHANIE MARTINELLI
+STR_CREDITS_DIS_086,,,,,,,GLOBALSTEP LLC
+STR_CREDITS_DIS_087,,,,,,,Uses Squall sound library
+STR_CREDITS_DIS_087A,,,,,,,© 1998-2009 Marat Gilyazetdinov
+STR_CREDITS_DIS_088,,,,,,,Box2D © 2006-2010 Erin Catto
+STR_CREDITS_DIS_089,,,,,,,Disney Phineas and Ferb: New Inventions
+STR_CREDITS_DIS_090,,,,,,,Published by Disney Interactive Studios
+STR_CREDITS_DIS_091,,,,,,,© 2012 Disney
+STR_CREDITS_PIPE_000,,,,,,,Created by
+STR_CREDITS_PIPE_001,,,,,,,Pipe Studio
+STR_CREDITS_PIPE_002,,,,,,,"Lead Game Designer, Screen writer"
+STR_CREDITS_PIPE_003,,,,,,,SERGEY OCHOTNIKOV
+STR_CREDITS_PIPE_004,,,,,,,Game Designer
+STR_CREDITS_PIPE_005,,,,,,,MARK LIMARENKO
+STR_CREDITS_PIPE_006,,,,,,,Project Lead
+STR_CREDITS_PIPE_007,,,,,,,ANNA BOGOSLOVETS
+STR_CREDITS_PIPE_008,,,,,,,Associate Project Lead
+STR_CREDITS_PIPE_009,,,,,,,IRINA CERNIKOV
+STR_CREDITS_PIPE_010,,,,,,,Lead Programmer
+STR_CREDITS_PIPE_011,,,,,,,JULIA MALJAREVIČ
+STR_CREDITS_PIPE_012,,,,,,,Programming
+STR_CREDITS_PIPE_013,,,,,,,OLEG SATRAVKA
+STR_CREDITS_PIPE_014,,,,,,,ANDREJ VELICHKO
+STR_CREDITS_PIPE_015,,,,,,,EKATERINA BERZIN
+STR_CREDITS_PIPE_016,,,,,,,EVNGENIJ ZOLKIN
+STR_CREDITS_PIPE_017,,,,,,,YAKOV SALENKO
+STR_CREDITS_PIPE_018,,,,,,,Art Director
+STR_CREDITS_PIPE_019,,,,,,,SERGEY KURCZENKO
+STR_CREDITS_PIPE_020,,,,,,,Artists
+STR_CREDITS_PIPE_021,,,,,,,OLGA KURČENKO
+STR_CREDITS_PIPE_022,,,,,,,TATIANA MURAJA
+STR_CREDITS_PIPE_023,,,,,,,JANA GOGA
+STR_CREDITS_PIPE_024,,,,,,,Animators
+STR_CREDITS_PIPE_025,,,,,,,ANNA GOLOVIN
+STR_CREDITS_PIPE_026,,,,,,,VERA BANŠČIKOVÁ
+STR_CREDITS_PIPE_027,,,,,,,Composer
+STR_CREDITS_PIPE_028,,,,,,,BORIS SEVOSTYANOV
+STR_CREDITS_PIPE_029,,,,,,,Sound Director
+STR_CREDITS_PIPE_030,,,,,,,DENIS BIELIAJEW
+STR_CREDITS_PIPE_031,,,,,,,Translators
+STR_CREDITS_PIPE_032,,,,,,,VERA ŠLAIFER
+STR_CREDITS_PIPE_033,,,,,,,ELENA BERDIČENKO
+STR_CREDITS_PIPE_034,,,,,,,QA
+STR_CREDITS_PIPE_035,,,,,,,ALEKSANDR KAŁAJDA
+STR_CREDITS_PIPE_036,,,,,,,ALEKSANDR STEPANOK
+STR_CREDITS_PIPE_037,,,,,,,ALEXEY KRIWOŁAPOW
+STR_CREDITS_PIPE_038,,,,,,,SIERGIEJ BOJKOW
+STR_CREDITS_PIPE_039,,,,,,,Executive Producer
+STR_CREDITS_PIPE_040,,,,,,,ANDREJ GOLOVLEV
+STR_SC311_PTR_SHOW_RESULT1,,,,,,,Great!
+STR_SC311_PTR_SHOW_RESULT2,,,,,,,You did well!
+STR_SC311_PTR_SHOW_RESULT3,,,,,,,Pretty good.
+STR_332_TYPE_1_QUEST_3,,,,,,,How many children are there? (3 + 5)
+STR_332_TYPE_3_ANSWER_5,,,,,,,4
+STR_332_TYPE_3_ANSWER_6,,,,,,,4
+STR_332_TYPE_3_ANSWER_7,,,,,,,2
+STR_332_TYPE_3_ANSWER_8,,,,,,,4
+STR_332_TYPE_3_ANSWER_9,,,,,,,2
+STR_332_TYPE_3_ANSWER_10,,,,,,,3
+STR_SC334_AFTER_TIME,,,,,,,3 seconds later
+STR_340_WHIZBANG_MESS,,,,,,,Grenade destroys metal debris on the magnet and reduces the weight of the helicopter.
+STR_CREDITS_COMMUNITY_001,,,,,,,English Fan Translation
+STR_CREDITS_COMMUNITY_002,,,,,,,Organization
+STR_CREDITS_COMMUNITY_003,,,,,,,ChainSwordCS
+STR_CREDITS_COMMUNITY_004,,,,,,,Eiim
+STR_CREDITS_COMMUNITY_005,,,,,,,Translation
+STR_CREDITS_COMMUNITY_006,,,,,,,Eiim
+STR_CREDITS_COMMUNITY_007,,,,,,,Graphics
+STR_CREDITS_COMMUNITY_008,,,,,,,LukePlays
+STR_CREDITS_COMMUNITY_009,,,,,,,Programming
+STR_CREDITS_COMMUNITY_010,,,,,,,Eiim
+STR_CREDITS_COMMUNITY_011,,,,,,,Translation Help
+STR_CREDITS_COMMUNITY_012,,,,,,,ChainSwordCS

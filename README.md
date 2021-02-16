@@ -6,7 +6,7 @@ Buy the game here: https://store.steampowered.com/app/318300/Phineas_and_Ferb_Ne
 
 # Licensing
 
-Currently, please do not redistribute this without my (ChainSwordCS) express permission. The team will work out a proper license at some point in the near future.
+The code, translations, and images are licensed under CC-BY-SA 4.0. You can find more information in the LICENSE file.
 
 Feel free to link to this Github repo and share it.
 
