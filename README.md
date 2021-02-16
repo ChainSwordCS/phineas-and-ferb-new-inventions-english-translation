@@ -12,9 +12,9 @@ Feel free to link to this Github repo and share it.
 
 # Installation
 
-* Download **texts.xml** from the latest release.
+* Download **en.bat** and **res_en.zip** from the Releases page.
 
-* *texts.xml* goes in \res_ru\ inside the game directory, replacing the *texts.xml* file already there.
+* Put both files in the game directory and run **en.bat**.
 
   * In a Steam installation, this is C:\Program Files (x86)\Steam\steamapps\common\Phineas and Ferb New Inventions\res_ru\
   
