@@ -25,6 +25,8 @@ Feel free to link to this Github repo and share it.
   * For the base game files, any language can be selected, according to your preferences.
   
   * For the additional credits, it is recommended to select "y" **unless** you have already installed with additional credits.
+  
+Afterwards, re-run Lang.exe to set the langauge to English.
 
 ### Building from Source
 
