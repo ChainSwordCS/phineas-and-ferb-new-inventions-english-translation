@@ -16,7 +16,7 @@ Feel free to link to this Github repo and share it.
 
 * Put both files in the game directory and run **en.bat**.
 
-  * In a Steam installation, this is C:\Program Files (x86)\Steam\steamapps\common\Phineas and Ferb New Inventions\res_ru\
+  * In a Steam installation, this is C:\Program Files (x86)\Steam\steamapps\common\Phineas and Ferb New Inventions\
   
   * Alternatively that directory may be in the \Program Files\ instead of \Program Files (x86)\
   
@@ -24,11 +24,11 @@ Feel free to link to this Github repo and share it.
 
   * For the base game files, any language can be selected, according to your preferences.
   
-  * For the additional credits, it is recommended to select "y" **unless** you have already installed with additional credits.
+  * For the additional credits, it is recommended to select "y" **unless** you have already installed with additional credits. In that case select "n". (Eiim does not currently remember if it breaks in this scenario)
   
-Afterwards, re-run Lang.exe to set the langauge to English.
+Afterwards, run Lang.exe to set the language to English.
 
-### Building from Source
+### Building from Source (This info needs updated)
 
 Python 3 is required.
 
@@ -40,21 +40,15 @@ The most up-to-date csv file can be retrieved from this spreadsheet: https://doc
 
 ### Uninstall
 
-The English language patch is currently built to replace the Russian language. For uninstalling the current version:
+The English language patch is currently built to replace only a few files! For uninstalling the current version:
 
-* Download the Russian *texts.xml* 
+* Download *res/sc_lang_menu.xml*, *res/credits.xml*, and *res_ru\00000505\00003178.png*
 
   * Right-click the link and click "Save Link As" to download.
   
   * Alternatively, left-click the link then right click inside the page and click "Save Page As"
   
-  * https://ia801403.us.archive.org/view_archive.php?archive=/18/items/phineas-and-ferb-new-inventions/Phineas%20and%20Ferb%20-%20New%20Inventions.zip&file=res_ru%2Ftexts.xml
-  
-* Place this *texts.xml* file in \res_ru\ inside the game directory.
-
-  * If downloaded through Steam on Windows, the directory is C:\Program Files (x86)\Steam\steamapps\common\Phineas and Ferb New Inventions\res_ru\
-  
-  * Alternatively, the directory might be C:\Program Files\Steam\steamapps\common\Phineas and Ferb New Inventions\res_ru\
+  * https://ia801403.us.archive.org/view_archive.php?archive=/18/items/phineas-and-ferb-new-inventions/
   
 If any other files were deleted or replaced, you could try to restore files through Steam with some instructions here (untested): https://www.easeus.com/file-recovery/restore-lost-steam-game-file.html
 
@@ -68,8 +62,10 @@ A member of our team will get to it and will incorporate it if they see fit. Fee
 
 # Credits
 
-ChainSwordCS - Organization, translation.
+ChainSwordCS - Organization, translation help.
 
 Eiim - Organization, translation, programming.
+
+LukePlays - Graphics.
 
 (More to come)
